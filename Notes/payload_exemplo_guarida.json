@@ -1,0 +1,1666 @@
+{
+    "all": [],
+    "imoveis": [
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14491/img-3.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14491/img-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14491/img-5.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14491/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14491/img-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14491/img-1.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Casa Residencial com 3 dormitórios no Bairro Hípica.\r\n\r\nÓtima casa com aproximadamente 100m², living 2 ambientes, sala de jantar e sala de estar, lavabo, cozinha com armários, área de serviço com tanque e um pequeno pátio nos fundos da casa. No segundo pavimento nós temos 2 dormitórios e o banheiro social. No sótão nós temos mais um dormitório. \r\n\r\nPara o seu veículo o imóvel conta com 2 vagas.\r\n\r\n**OBS: Os móveis serão retirados do imóvel, somente os armários da cozinha permanecerão.**\r\n\r\nLocalização maravilhosa, próxima a Avenida Juca Batista que conta com muitas facilidades, como, escolas, supermercados, academias, variado comércio, restaurantes, postos de gasolina e fácil acesso a transportes públicos. Localizada em um loteamento muito seguro e tranquilo, conta com rondas de seguranças 24h.\r\n\r\nO bairro Hípica faz parte da zona sul de Porto Alegre e é conhecido por ser berço da Sociedade Hípica Porto-Alegrense que existe desde 1939. Além disso, apresenta diferentes espaços para prática de hipismo na cidade. Possui uma série de grandes loteamentos, alguns de alto padrão, mas que possuem um ar diferenciado na região. Em alguns aspectos, pode ser mais rural, principalmente, por causa da paisagem, mas, com relação aos comércios e empreendimentos não deixa a desejar.\r\n\r\nNão perca tempo e agende agora mesmo uma visita, no dia e horário que desejar, com a nossa equipe de aluguéis especialista no bairro Hípica e arredores!",
+            "valor_txt": "R$ 2.300",
+            "valor_num": 2300,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 0,00",
+            "valor_iptu_txt": "R$ 36,00",
+            "categoria": {
+                "nome": "Casa/Sobrado",
+                "id": 2,
+                "slug": "casa-sobrado"
+            },
+            "codigo": "14491",
+            "bairro": "Hípica",
+            "cidade": "Porto Alegre",
+            "tipo": 2,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "14491",
+            "quartos": 3,
+            "area_total_txt": "100",
+            "area_util_num": 100,
+            "area_privativa_txt": "100",
+            "negocio": 0,
+            "endereco": "Rua Doutor Lauro Miguel Sturm, 245",
+            "cidade_id": 1,
+            "bairro_id": 17,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "245",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "pet_friendly"
+            ],
+            "caracteristicas_condominio": [
+                ""
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Casa Residencial com 3 dormitórios no Bairro Hípica.\r\n\r\nÓtima casa com aproximadamente 100m², living 2 ambientes, sala de jantar e sala de estar, lava...",
+            "titulo": "Exclusividade Guarida: Casa Residencial com 3 dormitórios no Bairro Hípica, com DUAS VAGAS!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/hipica-porto-alegre-rs/casa-sobrado/14491",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 0,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 2800,
+            "valor_anterior_txt": "R$ 2.800",
+            "valor_total_num": 2385.91,
+            "valor_total_txt": "R$ 2.386",
+            "renda_minima_num": 7157.73,
+            "renda_minima_txt": "R$ 7.158",
+            "custos_servicos_num": 49.91,
+            "latitude": -30.1471908,
+            "longitude": -51.1985472,
+            "custos_servicos_txt": "R$ 50",
+            "seguro_fogo_num": 690,
+            "seguro_fogo_txt": "R$ 690",
+            "desconto_percentual": "-21.74%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14806/img-1.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14806/img-1.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14806/img-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14806/img-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14806/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14806/img-5.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "São 2 dormitórios ambos com armários, sendo 1 suíte no bairro Floresta! Imóvel conta com 98m2, localizado no 3º andar.\r\n\r\nLiving amplo para dois ambientes com cozinha americana em granito negro, com armários completos e pia. Um dos quartos pode ser dividido em dois quartos ou quarto mais escritório, piso parquet, banheiros com box.\r\n\r\nEste imóvel é bem equipado, bom para quem procura conforto e comodidade. É bem localizado, e próximo a pontos de interesse como supermercados, farmácias, restaurantes e ao Centro de Porto Alegre.\r\n\r\nVagas de estacionamento para alugar em frente ao prédio ou na mesma quadra.\r\n\r\nO condomínio possui gás central, sistema interno de câmeras, portaria 18 horas e salão de festas com churrasqueira.\r\n\r\nO bairro São Geraldo é localizado na zona norte de Porto Alegre e está em plena expansão atualmente. Ele consegue mesclar residências com comércios e possui um dos lugares mais conhecidos atualmente, o 4º distrito. Espaço de descontração, repleto de bares, festas e casas noturnas para todos os gostos e idades. Por isso, tem sido local de escolha para muitos novos empreendimentos e moradores. \r\n\r\nAgende uma visita com a equipe de consultores da Guarida!",
+            "valor_txt": "R$ 1.350",
+            "valor_num": 1350,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 480,00",
+            "valor_iptu_txt": "R$ 92,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "14806",
+            "bairro": "Floresta",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "14806",
+            "quartos": 2,
+            "area_total_txt": "98",
+            "area_util_num": 98,
+            "area_privativa_txt": "98",
+            "negocio": 0,
+            "endereco": "Rua Quintino Bandeira, 166",
+            "cidade_id": 1,
+            "bairro_id": 29,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "166",
+            "vagas": 0,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "salao_festas",
+                "numero_elevador",
+                "circuito_tv"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "São 2 dormitórios ambos com armários, sendo 1 suíte no bairro Floresta! Imóvel conta com 98m2, localizado no 3º andar.\r\n\r\nLiving amplo para dois ambie...",
+            "titulo": "Exclusividade Guarida: Apartamento 2 dormitórios, sendo um suite, no bairro FLORESTA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/floresta-porto-alegre-rs/apartamento/14806",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 1400,
+            "valor_anterior_txt": "R$ 1.400",
+            "valor_total_num": 1951.3,
+            "valor_total_txt": "R$ 1.951",
+            "renda_minima_num": 5853.89,
+            "renda_minima_txt": "R$ 5.854",
+            "custos_servicos_num": 29.3,
+            "latitude": -30.0127293,
+            "longitude": -51.2038711,
+            "custos_servicos_txt": "R$ 29",
+            "seguro_fogo_num": 337.5,
+            "seguro_fogo_txt": "R$ 338",
+            "desconto_percentual": "-3.7%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14434/20221221-104358.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14434/20221221-104358.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14434/20221221-104221.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14434/20221221-104433.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14434/20221221-104443.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14434/20221221-104439.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Casa em condomínio de 3 dormitórios, sendo 1 suíte, no bairro Tristeza. Imóvel com 125m² de área útil.\r\n\r\nComposto por living 2 ambientes com lavabo, cozinha americana, churrasqueira e  área de serviço. No segundo pavimento estão os 3 dormitórios, sendo 1 suíte e banheiro social. \r\n\r\nVaga dupla coberta.\r\n\r\nPróximo das Avenida Otto Niemeyer e Cavalhada, fácil acesso a transporte público, mercados, farmácias, comércio geral e a todas as conveniências que o bairro oferece.\r\n\r\nApesar de ser um bairro em grande crescimento na Zona Sul, com inúmeras opções de comércio, mantém uma atmosfera de tranquilidade entre os moradores e tradição intrínseca. De tristeza mesmo, só há o nome, pois é um dos mais nobres e organizados de Porto Alegre. É muito arborizado e próximo ao Rio Guaíba, trazendo um ar de cidade do interior. O que o bairro Tristeza traz com maestria é a diversidade de serviços, porque é possível encontrar todo tipo de mercado, feiras orgânicas, salões de beleza e muito mais. \r\n\r\nAgende agora mesmo sua visita sem sair de casa pelos nossos canais digitais, nossos consultores estão à disposição!",
+            "valor_txt": "R$ 1.850",
+            "valor_num": 1850,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 200,00",
+            "valor_iptu_txt": "R$ 130,00",
+            "categoria": {
+                "nome": "Casa em Condomínio",
+                "id": 3,
+                "slug": "casa-em-condominio"
+            },
+            "codigo": "14434",
+            "bairro": "Tristeza",
+            "cidade": "Porto Alegre",
+            "tipo": 3,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "14434",
+            "quartos": 3,
+            "area_total_txt": "125",
+            "area_util_num": 125,
+            "area_privativa_txt": "125",
+            "negocio": 0,
+            "endereco": "Rua Landel de Moura, 2225",
+            "cidade_id": 1,
+            "bairro_id": 15,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "2225",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                ""
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Casa em condomínio de 3 dormitórios, sendo 1 suíte, no bairro Tristeza. Imóvel com 125m² de área útil.\r\n\r\nComposto por living 2 ambientes com lavabo, ...",
+            "titulo": "Exclusividade Guarida: Casa em condomínio fechado, de 3 dormitórios, sendo 1 suíte, no bairro Tristeza, com VAGA DUPLA COBERTA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/tristeza-porto-alegre-rs/casa-em-condominio/14434",
+            "favorito": "",
+            "banheiros": 3,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 2000,
+            "valor_anterior_txt": "R$ 2.000",
+            "valor_total_num": 2220.15,
+            "valor_total_txt": "R$ 2.220",
+            "renda_minima_num": 6660.44,
+            "renda_minima_txt": "R$ 6.660",
+            "custos_servicos_num": 40.15,
+            "latitude": -30.1105866,
+            "longitude": -51.2384568,
+            "custos_servicos_txt": "R$ 40",
+            "seguro_fogo_num": 555,
+            "seguro_fogo_txt": "R$ 555",
+            "desconto_percentual": "-8.11%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14070/img-2.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14070/img-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14070/img-1.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14070/img-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14070/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14070/img-13.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento de 1 dormitório no bairro Boa Vista.\r\n\r\nImóvel com 48m² de área privativa, no 3º andar, lateral, posição solar oeste e piso frio.\r\n\r\nO living possui 2 ambientes, cozinha com pia, área de serviço com tanque, dormitório aconchegante e banheiro social com box.\r\n\r\nLocalizado próximo aos shoppings Iguatemi, Bourbon Country e parque Germania.\r\n\r\nO Passo d’Areia possui uma localização privilegiada, com infraestrutura privilegiada e tudo o que você precisa para viver bem. Além disso, você está a um passo dos melhores shoppings centers da cidade, como Iguatemi e Wallig. Para quem prefere fazer atividades ao ar livre, encontra no bairro a Praça Chopin e o Parque Alim Pedro. Ainda, o acesso ao aeroporto e regiões metropolitanas é um diferencial. É considerado um dos melhores bairros da Zona Norte de Porto Alegre para viver bem, com acesso a escolas, hospitais e inúmeras opções de restaurantes. \r\n\r\nAgende sua visita com um de nossos consultores especializados na região!",
+            "valor_txt": "R$ 1.300",
+            "valor_num": 1300,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 270,00",
+            "valor_iptu_txt": "R$ 40,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "14070",
+            "bairro": "Boa Vista",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "14070",
+            "quartos": 1,
+            "area_total_txt": "48",
+            "area_util_num": 48,
+            "area_privativa_txt": "48",
+            "negocio": 0,
+            "endereco": "Rua Cipó, 47",
+            "cidade_id": 1,
+            "bairro_id": 10,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "47",
+            "vagas": 0,
+            "caracteristicas_imovel": [
+                "pet_friendly"
+            ],
+            "caracteristicas_condominio": [
+                ""
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento de 1 dormitório no bairro Boa Vista.\r\n\r\nImóvel com 48m² de área privativa, no 3º andar, lateral, posição solar oeste e piso frio.\r\n\r\nO liv...",
+            "titulo": "Apartamento de 1 dormitório no bairro Boa Vista ",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/boa-vista-porto-alegre-rs/apartamento/14070",
+            "favorito": "",
+            "banheiros": 1,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 0,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 1500,
+            "valor_anterior_txt": "R$ 1.500",
+            "valor_total_num": 1638.21,
+            "valor_total_txt": "R$ 1.638",
+            "renda_minima_num": 4914.63,
+            "renda_minima_txt": "R$ 4.915",
+            "custos_servicos_num": 28.21,
+            "latitude": -30.0207908,
+            "longitude": -51.1633354,
+            "custos_servicos_txt": "R$ 28",
+            "seguro_fogo_num": 325,
+            "seguro_fogo_txt": "R$ 325",
+            "desconto_percentual": "-15.38%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14583/img-4.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14583/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14583/img-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14583/img-1.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14583/img-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14583/img-26.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento no bairro Bela Vista com 100m², localizado no 2º andar. \r\n\r\nLiving amplo de piso laminado com boa iluminação natural, lareira, sua cozinha rustica com pia e armários e sua área de serviço em separado.\r\n\r\nDormitórios iluminados, sendo em deles com sacada, seu banheiro com box e uma vaga de garagem coberta. Condomínio simples e bem localizado, em um dos bairros mais procurados da capital.\r\n\r\nImóvel conta com 01 vaga de garagem coberta.\r\n\r\nPróximo a faculdade Ipa, estéticas, academias e praças, agende sua visita agora mesmo, estamos te esperando.\r\n\r\nSe você quer morar em um dos bairros mais bem estruturados de Porto Alegre, a opção pelo Bela Vista é altamente indicada. A região é considerada uma das áreas nobres da capital, conta com vários serviços que se convertem em comodidades. A região possui ótimas opções de diversão e bons parques para caminhar, correr ou apenas tomar um chimarrão no fim de tarde. Nessa linha de lugares, temos a Praça da Encol, uma das preferidas de quem mora no Bela Vista. Lá tem playground, academia e quadras, além dos eventos e da gastronomia oferecida pelos food trucks.\r\n\r\nVenha conhecer este imóvel, agende uma visita conosco!",
+            "valor_txt": "R$ 1.800",
+            "valor_num": 1800,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 650,00",
+            "valor_iptu_txt": "R$ 155,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "14583",
+            "bairro": "Bela Vista",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "14583",
+            "quartos": 2,
+            "area_total_txt": "100",
+            "area_util_num": 100,
+            "area_privativa_txt": "100",
+            "negocio": 0,
+            "endereco": "Avenida Coronel Lucas de Oliveira, 557",
+            "cidade_id": 1,
+            "bairro_id": 12,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "557",
+            "vagas": 1,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                "numero_elevador",
+                "circuito_tv"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento no bairro Bela Vista com 100m², localizado no 2º andar. \r\n\r\nLiving amplo de piso laminado com boa iluminação natural, lareira, sua cozinha...",
+            "titulo": "Exclusividade Guarida: Apartamento de 02 dormitórios, no bairro Bela Vista, com VAGA/LAREIRA e SACADA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/bela-vista-porto-alegre-rs/apartamento/14583",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 0,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 2000,
+            "valor_anterior_txt": "R$ 2.000",
+            "valor_total_num": 2644.06,
+            "valor_total_txt": "R$ 2.644",
+            "renda_minima_num": 7932.18,
+            "renda_minima_txt": "R$ 7.932",
+            "custos_servicos_num": 39.06,
+            "latitude": -30.02749,
+            "longitude": -51.1948719,
+            "custos_servicos_txt": "R$ 39",
+            "seguro_fogo_num": 360,
+            "seguro_fogo_txt": "R$ 360",
+            "desconto_percentual": "-11.11%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/13258/img-1.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13258/img-1.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13258/img-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13258/img-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13258/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13258/img-5.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento semi mobiliado de 2 dormitórios sendo 1 suíte no bairro Petrópolis.\r\n\r\nApartamento de aproximadamente 90m² de área privativa, localizado no 9º andar, com 2 dormitórios sendo 1 suíte, os 2 possuem splits e armários modulados, o sol da manhã nos dormitórios, 1 deles está mobiliado para um escritório, mas pode ser transformado em um segundo dormitório, living muito amplo para 2 ambientes, já com painel para tv, mesa de jantar com cadeiras e split, sacada gourmet com churrasqueira com uma vista incrível para a cidade de Porto Alegre, cozinha com armários modulados, geladeira e fogão, área de serviço separada com tanque, entrada para máquina de lavar e armário, aquecedor de água à gás para torneiras e chuveiros.\r\n\r\nImóvel conta com 1 vaga de garagem dupla e coberta.\r\n\r\nO Condomínio conta com elevadores, salão de festas equipado, interfone, portão eletrônico e portaria 24 horas.\r\n\r\nLocalização excelente, à 4 quadras da praça da Encol, 2 quadras da Av. Protásio Alves, próximo à Avenida Cel. Lucas de Oliveira e Nilópolis, que conta com muitas facilidades, comércio, bares, restaurantes, academias e com fácil acesso a transporte público.\r\n\r\nNão perca tempo, agende agora mesmo uma visita com um de nossos consultores e faça uma locação tranquila e segura.",
+            "valor_txt": "R$ 3.850",
+            "valor_num": 3850,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 1.057,00",
+            "valor_iptu_txt": "R$ 309,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "13258",
+            "bairro": "Petrópolis",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "13258",
+            "quartos": 2,
+            "area_total_txt": "90",
+            "area_util_num": 90,
+            "area_privativa_txt": "90",
+            "negocio": 0,
+            "endereco": "Rua João Abbott, 516",
+            "cidade_id": 1,
+            "bairro_id": 14,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "516",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "salao_festas",
+                "numero_elevador"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento semi mobiliado de 2 dormitórios sendo 1 suíte no bairro Petrópolis.\r\n\r\nApartamento de aproximadamente 90m² de área privativa, localizado n...",
+            "titulo": "Exclusividade Guarida: Apartamento semi mobiliado de 2 dormitórios, sendo 1 suíte no bairro Petrópolis, com VAGA/SACADA E CHURRASQUEIRA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/petropolis-porto-alegre-rs/apartamento/13258",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 4200,
+            "valor_anterior_txt": "R$ 4.200",
+            "valor_total_num": 5299.55,
+            "valor_total_txt": "R$ 5.300",
+            "renda_minima_num": 15898.64,
+            "renda_minima_txt": "R$ 15.899",
+            "custos_servicos_num": 83.55,
+            "latitude": -30.0411023,
+            "longitude": -51.1847865,
+            "custos_servicos_txt": "R$ 84",
+            "seguro_fogo_num": 577.5,
+            "seguro_fogo_txt": "R$ 578",
+            "desconto_percentual": "-9.09%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/11057/beeacf4a-738d-41da-aeb9-67b4988ba9ec.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/11057/beeacf4a-738d-41da-aeb9-67b4988ba9ec.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/11057/4cd3d69c-667b-40ce-a1c4-cf5a5805a08a.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/11057/195071f8-72c9-41ab-8ce3-b1aedb14f3eb.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/11057/8609fc0c-b0fa-4ea4-a437-0f1aeb5ebd88.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/11057/849e78e8-6e08-43ed-b5cd-46788cc201fd.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento Cobertura de 2 Quartos . Foi transformado em 2 com suite e closet ( podendo ser revertido para 3 ) com\u00A0 144 m2, localizado no 11º andar. \r\nCozinha com móveis sob medida com granito resinado e belíssimo acabamento\u00A0 .Lavanderia, com móveis sob medida com aquecedor . Bancada americana. Amplo living para dois ambientes,\u00A0 com\u00A0 Split\u00A0 .\u00A0 Telas de proteção em todas as janelas . \r\nAquecedor de água para torneiras e chuveiros. Todo em belíssimo acabamento em porcelanato, trabalho em gesso e luminárias . Suite master\u00A0 casal\u00A0 com closet\u00A0 e split .\u00A0 Banheiro do suite\u00A0 completo ! \r\n\r\nParte superior com amplo living, com split , banheiro completo e churrasqueira . Excelente área externa com belíssima vista e espera para jacusi . ( Somente instalar ) \r\n\r\nCondomínio com estrutura de clube\u00A0 Com feirinha , toda a segunda feira , com legumes , verduras e frutas fresquinhas , sem precisar sair de casa ? Mercado Virtual ! Sem falar em grupos de negócios , por whats , que tem desde alimentação , roupas , manicure , depilação , cabeleireira e muito mais ... \r\nSegurança: Portaria 24 horas, monitoramento por câmeras; \r\n\r\nAcademia ! Sauna, Play! 3 piscinas! Quiosques com churrasqueira! Quadra esportiva ! Espaço kids! Brinquedoteca ! E, um belíssimo bosque com espaço Zen, play, para você caminhar ao meio de muito verde e tranquilidade . Portarias e vigilância 24 horas ! \r\n\r\nImóvel conta com 1 Vaga!\r\n\r\nPerto da\u00A0 Faculdade Anhanguera, Academia Moinhos, Zaffari, Big, Escolas,\u00A0 comércio e serviços da Zona Sul.\r\n\r\nAgende agora mesmo uma visita, no dia e horário que desejar, com a nossa equipe de Aluguéis especialista no Bairro Cavalhada e arredores!\r\n",
+            "valor_txt": "R$ 2.800",
+            "valor_num": 2800,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 830,00",
+            "valor_iptu_txt": "R$ 102,36",
+            "categoria": {
+                "nome": "Cobertura",
+                "id": 4,
+                "slug": "cobertura"
+            },
+            "codigo": "11057",
+            "bairro": "Cavalhada",
+            "cidade": "Porto Alegre",
+            "tipo": 4,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "11057",
+            "quartos": 3,
+            "area_total_txt": "134",
+            "area_util_num": 134.45,
+            "area_privativa_txt": "134",
+            "negocio": 0,
+            "endereco": "Avenida da Cavalhada, 4530",
+            "cidade_id": 1,
+            "bairro_id": 1,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "4530",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "salao_festas",
+                "playground",
+                "piscina",
+                "numero_elevador"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento Cobertura de 2 Quartos . Foi transformado em 2 com suite e closet ( podendo ser revertido para 3 ) com\u00A0 144 m2, localizado no 11º andar. \r...",
+            "titulo": "Exclusividade Guarida: Apartamento cobertura 2 dormitórios, no Bairro Cavalhada, COM BOX!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/cavalhada-porto-alegre-rs/cobertura/11057",
+            "favorito": "",
+            "banheiros": 3,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 2,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 3000,
+            "valor_anterior_txt": "R$ 3.000",
+            "valor_total_num": 3792.76,
+            "valor_total_txt": "R$ 3.793",
+            "renda_minima_num": 11378.28,
+            "renda_minima_txt": "R$ 11.378",
+            "custos_servicos_num": 60.76,
+            "latitude": -30.1152206,
+            "longitude": -51.2253621,
+            "custos_servicos_txt": "R$ 61",
+            "seguro_fogo_num": 420,
+            "seguro_fogo_txt": "R$ 420",
+            "desconto_percentual": "-7.14%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14020/00028480ab_fa_0.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14020/00028480ab_fa_0.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14020/00028480aa_fa_0.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14020/00028480ag_li_0.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14020/00028480bd_sf_0.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14020/00028480am_ch_1.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Casa em condomínio de 2 dormitórios, sendo 1 suíte com  sacada, no bairro Cavalhada. \r\n\r\nImóvel com área útil de 96m², posição solar norte, living de 2 ambientes amplos, área de serviço, churrasqueira, pátio privativo, lavabo e banheiro social. \r\n\r\nImóvel conta com  1 vaga de garagem descoberta. \r\n\r\nCondomínio com portaria 24 horas, salão de festas, churrasqueira, quadra de esportes, playground e piscina. Próximo a Rua Dea Coufal. Venha conhecer!\r\n\r\nLocalizado em um dos bairros mais conceituados da região, próximo a faculdade e pontos de passeio, supermercado, estéticas e academias.\r\n\r\nAgende sua visita agora mesmo, estamos te esperando.",
+            "valor_txt": "R$ 2.400",
+            "valor_num": 2400,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 850,00",
+            "valor_iptu_txt": "R$ 145,00",
+            "categoria": {
+                "nome": "Casa em Condomínio",
+                "id": 3,
+                "slug": "casa-em-condominio"
+            },
+            "codigo": "14020",
+            "bairro": "Cavalhada",
+            "cidade": "Porto Alegre",
+            "tipo": 3,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "14020",
+            "quartos": 2,
+            "area_total_txt": "96",
+            "area_util_num": 96,
+            "area_privativa_txt": "96",
+            "negocio": 0,
+            "endereco": "Avenida da Cavalhada, 6021",
+            "cidade_id": 1,
+            "bairro_id": 1,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "6021",
+            "vagas": 1,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "salao_festas",
+                "playground",
+                "piscina"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Casa em condomínio de 2 dormitórios, sendo 1 suíte com  sacada, no bairro Cavalhada. \r\n\r\nImóvel com área útil de 96m², posição solar norte, living de ...",
+            "titulo": "Exclusividade Guarida: Casa em condomínio fechado, de 2 dormitórios, no bairro Cavalhada, com VAGA e SACADA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/cavalhada-porto-alegre-rs/casa-em-condominio/14020",
+            "favorito": "",
+            "banheiros": 1,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 2600,
+            "valor_anterior_txt": "R$ 2.600",
+            "valor_total_num": 3447.08,
+            "valor_total_txt": "R$ 3.447",
+            "renda_minima_num": 10341.24,
+            "renda_minima_txt": "R$ 10.341",
+            "custos_servicos_num": 52.08,
+            "latitude": -30.1276129,
+            "longitude": -51.2230663,
+            "custos_servicos_txt": "R$ 52",
+            "seguro_fogo_num": 720,
+            "seguro_fogo_txt": "R$ 720",
+            "desconto_percentual": "-8.33%",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 6,
+                    "nome": "Melhor Preço",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/13106/ag-1665667414897-6.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13106/ag-1665667414897-6.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13106/ag-1665667463139-20.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13106/ag-1665667473606-23.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13106/ag-1665667470765-22.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13106/ag-1665667416387-7.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento de 3 dormitórios com sacada, no bairro Rio Branco.\r\n\r\nImóvel com 115m² de área privativa, no 3º andar, frente, posição solar norte e piso cerâmica.\r\n\r\nO living possui 2 ambientes com sacada, cozinha com pia e armário, área de serviço fechada com aquecedor, dormitórios aconchegantes e banheiro social com box e armário e banheiro auxiliar. \r\n\r\nLocalizado próximo as avenidas Protásio Alves, Ipiranga e do Hospital de Clinicas.\r\n\r\nPara quem deseja morar em um local que oferece, além de comodidade e diversas opções de lazer, a segurança necessária de ficar em paz consigo e a família, viver no bairro Rio Branco tende a ser a solução. A região é uma das mais tradicionais da capital gaúcha, belos edifícios residenciais e comércio a pleno vapor. Por conta das suas exuberantes opções de entretenimento, atrai um público jovem a aproveitar suas casas noturnas, pubs, restaurantes e demais pontos de encontro. Amplo acesso aos principais pontos da capital e a vizinhança com excelentes escolas, que, inclusive, são referências no contexto nacional, são mais benefícios de morar na localidade.\r\n\r\nAgende sua visita com um de nossos consultores especializados na região!",
+            "valor_txt": "R$ 2.100",
+            "valor_num": 2100,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 320,00",
+            "valor_iptu_txt": "R$ 86,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "13106",
+            "bairro": "Rio Branco",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "13106",
+            "quartos": 3,
+            "area_total_txt": "115",
+            "area_util_num": 115,
+            "area_privativa_txt": "115",
+            "negocio": 0,
+            "endereco": "Rua Dona Eugênia, 319",
+            "cidade_id": 1,
+            "bairro_id": 6,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "319",
+            "vagas": 0,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                ""
+            ],
+            "promo_extra": "",
+            "video": "https://player.vimeo.com/video/758109946",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento de 3 dormitórios com sacada, no bairro Rio Branco.\r\n\r\nImóvel com 115m² de área privativa, no 3º andar, frente, posição solar norte e piso ...",
+            "titulo": "Excelente apartamento de 3 dormitórios com sacada, no bairro Santa Cecilia.",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/rio-branco-porto-alegre-rs/apartamento/13106",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 0,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 2551.57,
+            "valor_total_txt": "R$ 2.552",
+            "renda_minima_num": 7654.71,
+            "renda_minima_txt": "R$ 7.655",
+            "custos_servicos_num": 45.57,
+            "latitude": -30.0408917,
+            "longitude": -51.202131,
+            "custos_servicos_txt": "R$ 46",
+            "seguro_fogo_num": 420,
+            "seguro_fogo_txt": "R$ 420",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 7,
+                    "nome": "Faça uma visita virtual",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/13386/ag-1665083723760-4.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13386/ag-1665083723760-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13386/ag-1665083720410-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13386/ag-1665083718976-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13386/ag-1665083729284-7.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13386/ag-1665083725035-5.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento de 2 dormitórios, sendo os 2 suítes, no bairro Bela Vista.\r\n\r\nImóvel com 73m² de área útil, localizado no 5º andar.\r\n\r\nComposto por living 2 ambientes com split e rack para TV, sacada com churrasqueira, lavabo, cozinha com pia em granito e armários planejados, área de serviço grande com aquecedor, 2 suítes, sendo 1 com hidromassagem, armário e ar condicionado, vaga dupla coberta.\r\n\r\nCondomínio com portaria 24 horas e fitness.\r\n\r\nPróximo da Rua Cabral e Casemiro de Abreu, comércio geral e a todas as conveniências que o bairro oferece.\r\n\r\nAgende agora mesmo sua visita sem sair de casa pelos nossos canais digitais, nossos consultores estão à disposição!\r\n\r\nSe você quer morar em um dos bairros mais bem estruturados de Porto Alegre, a opção pelo Bela Vista é altamente indicada. A região é considerada uma das áreas nobres da capital, conta com vários serviços que se convertem em comodidades. A região possui ótimas opções de diversão e bons parques para caminhar, correr ou apenas tomar um chimarrão no fim de tarde. Nessa linha de lugares, temos a Praça da Encol, uma das preferidas de quem mora no Bela Vista. Lá tem playground, academia e quadras, além dos eventos e da gastronomia oferecida pelos food trucks.",
+            "valor_txt": "R$ 2.400",
+            "valor_num": 2400,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 1.100,00",
+            "valor_iptu_txt": "R$ 250,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "13386",
+            "bairro": "Bela Vista",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "13386",
+            "quartos": 2,
+            "area_total_txt": "73",
+            "area_util_num": 73,
+            "area_privativa_txt": "73",
+            "negocio": 0,
+            "endereco": "Avenida Coronel Lucas de Oliveira, 1476",
+            "cidade_id": 1,
+            "bairro_id": 12,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "1476",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "mobiliado",
+                "pet_friendly",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "academia",
+                "numero_elevador",
+                "circuito_tv"
+            ],
+            "promo_extra": "",
+            "video": "https://player.vimeo.com/video/756957089",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento de 2 dormitórios, sendo os 2 suítes, no bairro Bela Vista.\r\n\r\nImóvel com 73m² de área útil, localizado no 5º andar.\r\n\r\nComposto por living...",
+            "titulo": "Exclusividade Guarida: Apartamento de 2 dormitórios, no bairro Bela Vista com CHURRASQUEIRA, SACADA E VAGA DUPLA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/bela-vista-porto-alegre-rs/apartamento/13386",
+            "favorito": "",
+            "banheiros": 3,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 2,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 3802.08,
+            "valor_total_txt": "R$ 3.802",
+            "renda_minima_num": 11406.24,
+            "renda_minima_txt": "R$ 11.406",
+            "custos_servicos_num": 52.08,
+            "latitude": -30.0355473,
+            "longitude": -51.1940622,
+            "custos_servicos_txt": "R$ 52",
+            "seguro_fogo_num": 480,
+            "seguro_fogo_txt": "R$ 480",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                },
+                {
+                    "id": 7,
+                    "nome": "Faça uma visita virtual",
+                    "cor_de_texto": "#000",
+                    "cor_de_fundo": "#f1f1f1"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/2205/4c5c8b7d4d6b198dafbd6f1ca956eefb.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/2205/4c5c8b7d4d6b198dafbd6f1ca956eefb.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/2205/21ced73ef95a6765ed17c8c5afda9b49.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/2205/8b1a6f4e0e46a46763c0b83e4dafeb91.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/2205/b2f3d49070499eef2857f67932df29bc.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/2205/64fd4f5952d8742c0a828f81b1ad7c93.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Casa residencial de 3 dormitórios, sendo 1 suíte no bairro Partenon.\r\n\r\nImóvel com\u00A0135m² de área privativa, orientação\u00A0solar leste e piso cerâmica. \r\n\r\nO living amplo possui 2 ambientes com lareira e lavabo, cozinha com pia e armário, área de serviço com tanque, dormitórios aconchegantes com sacada e banheiro social com box e banheira. \r\n\r\nPara o seu veiculo, o imóvel conta com 4 vagas de garagem cobertas. \r\n\r\nNa parte externa possui pátio amplo com piscina, jardim e churrasqueira. \r\n\r\nLocalizado próximo a rua Coronel Aparício Borges e da avenida Professor Oscar Pereira, dispondo de todas as facilidades que o bairro proporciona.\u00A0\r\n\r\nNo bairro Partenon fica a PUCRS, universidade bem renomada e conhecida em Porto Alegre. É, portanto, uma área muito procurada por estudantes. Além disso, o bairro conta com diversos serviços que auxiliam quem vive por lá. O Partenon é cortado pela Av Ipiranga e Av Bento Gonçalves, por onde passam diversas linhas de ônibus e lotações diferentes, percorrendo a cidade. \r\n\r\nAgende sua visita com um de nossos consultores especializados na região! ",
+            "valor_txt": "R$ 2.200",
+            "valor_num": 2200,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 0,00",
+            "valor_iptu_txt": "R$ 168,00",
+            "categoria": {
+                "nome": "Casa/Sobrado",
+                "id": 2,
+                "slug": "casa-sobrado"
+            },
+            "codigo": "2205",
+            "bairro": "Partenon",
+            "cidade": "Porto Alegre",
+            "tipo": 2,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "2205",
+            "quartos": 3,
+            "area_total_txt": "135",
+            "area_util_num": 135,
+            "area_privativa_txt": "135",
+            "negocio": 0,
+            "endereco": "PAULINO AZURENHA, 1035",
+            "cidade_id": 1,
+            "bairro_id": 19,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "1035",
+            "vagas": 4,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "sacada",
+                "patio",
+                "piscina",
+                "portao_eletronico"
+            ],
+            "caracteristicas_condominio": [
+                ""
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Casa residencial de 3 dormitórios, sendo 1 suíte no bairro Partenon.\r\n\r\nImóvel com\u00A0135m² de área privativa, orientação\u00A0solar leste e piso cerâmica. \r\n...",
+            "titulo": "Exclusividade Guarida: Casa residencial de 3 dormitórios, sendo 1 suíte no bairro Partenon, com VAGA DE GARAGEM!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/partenon-porto-alegre-rs/casa-sobrado/2205",
+            "favorito": "",
+            "banheiros": 3,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 2415.74,
+            "valor_total_txt": "R$ 2.416",
+            "renda_minima_num": 7247.22,
+            "renda_minima_txt": "R$ 7.247",
+            "custos_servicos_num": 47.74,
+            "latitude": -30.0686158,
+            "longitude": -51.1966367,
+            "custos_servicos_txt": "R$ 48",
+            "seguro_fogo_num": 660,
+            "seguro_fogo_txt": "R$ 660",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14956/img-1.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14956/img-1.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14956/img-2.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14956/img-3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14956/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14956/img-5.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento de 3 dormitórios, sendo 1 suíte, no bairro Bela Vista.\r\n\r\nMore a apenas uma quadra da Praça da Encol!!!\r\n\r\nSão 107m² de área privativa, de fundos, com piso laminado e posição solar leste e oeste.\r\n\r\nO living possui 3 ambientes com lareira e sacada integrada. Cozinha com armários planejados e fogão. Área de serviço com tanque e junker digital. Dependência com banheiro auxiliar. Dormitório com armários e ar condicionado e banheiros com box de vidro e armários.\r\n\r\nPara os seus veículos, o apê conta com um vaga dupla de garagem coberta.\r\n\r\nO condomínio conta com apenas dois apartamentos por andar e possui salão de festas com churrasqueira, piscina, zelador e elevadores.\r\n\r\nSe você quer morar em um dos bairros mais bem estruturados de Porto Alegre, a opção pelo Bela Vista é altamente indicada. A região é considerada uma das áreas nobres da capital, conta com vários serviços que se convertem em comodidades. A região possui ótimas opções de diversão e bons parques para caminhar, correr ou apenas tomar um chimarrão no fim de tarde. Nessa linha de lugares, temos a Praça da Encol, uma das preferidas de quem mora no Bela Vista. Lá tem playground, academia e quadras, além dos eventos e da gastronomia oferecida pelos food trucks.\r\n\r\nAproveite e agende sua visita com um dos nossos consultores especializados na região!",
+            "valor_txt": "R$ 4.100",
+            "valor_num": 4100,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 792,00",
+            "valor_iptu_txt": "R$ 340,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "14956",
+            "bairro": "Bela Vista",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "14956",
+            "quartos": 3,
+            "area_total_txt": "107",
+            "area_util_num": 107,
+            "area_privativa_txt": "107",
+            "negocio": 0,
+            "endereco": "Rua Barão de Ubá, 571",
+            "cidade_id": 1,
+            "bairro_id": 12,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "571",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "sacada"
+            ],
+            "caracteristicas_condominio": [
+                "piscina",
+                "salao_festas",
+                "numero_elevador",
+                "circuito_tv"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento de 3 dormitórios, sendo 1 suíte, no bairro Bela Vista.\r\n\r\nMore a apenas uma quadra da Praça da Encol!!!\r\n\r\nSão 107m² de área privativa, de...",
+            "titulo": "Apartamento para aluguel, 3 quartos, 1 suíte, 2 vagas, Bela Vista - Porto Alegre/RS",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/bela-vista-porto-alegre-rs/apartamento/14956",
+            "favorito": "",
+            "banheiros": 3,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 5320.97,
+            "valor_total_txt": "R$ 5.321",
+            "renda_minima_num": 15962.91,
+            "renda_minima_txt": "R$ 15.963",
+            "custos_servicos_num": 88.97,
+            "latitude": -30.035641,
+            "longitude": -51.1887048,
+            "custos_servicos_txt": "R$ 89",
+            "seguro_fogo_num": 615,
+            "seguro_fogo_txt": "R$ 615",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/5610/11.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/5610/11.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/5610/4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/5610/3.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/5610/10.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/5610/2.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento cobertura de 2 dormitórios no bairro Menino Deus. \r\n\r\nImóvel com 119m² de área privativa, localizado no 4º andar, posição solar norte e piso em porcelanato.\r\n\r\nO living amplo possui 2 ambientes, cozinha com pia e armário, área de serviço com tanque e banheiro social com box. \r\n\r\nNa cobertura, ficam os dormitórios com closet, espaço coberto com churrasqueira, banheiro social e terraço.\r\n\r\nPara o seu veiculo, o imóvel conta com 1 vaga de garagem coberta. \r\n\r\nLocalizado proximo ao Centro de treinamentos esportivos (CETE) e do shopping Praia de Belas.\r\n\r\nO bairro Azenha é ótimo para os estudantes e famílias, pois é próximo ao Centro e fica perto de tudo o que é necessário para oferecer praticidade e comodidade à rotina. O acesso também é bastante facilitado a universidades como a ESPM e a PUCRS. Além disso, conta com várias opções de transporte. A vizinhança da Azenha é tranquila e possui mercados, farmácias e outros tipos de comércio.\r\n\r\nAgende sua visita com um de nossos consultores especializados na região!",
+            "valor_txt": "R$ 2.300",
+            "valor_num": 2300,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 355,00",
+            "valor_iptu_txt": "R$ 90,00",
+            "categoria": {
+                "nome": "Cobertura",
+                "id": 4,
+                "slug": "cobertura"
+            },
+            "codigo": "5610",
+            "bairro": "Menino Deus",
+            "cidade": "Porto Alegre",
+            "tipo": 4,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "5610",
+            "quartos": 2,
+            "area_total_txt": "119",
+            "area_util_num": 119,
+            "area_privativa_txt": "119",
+            "negocio": 0,
+            "endereco": "Avenida da Azenha, 1668",
+            "cidade_id": 1,
+            "bairro_id": 5,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "1668",
+            "vagas": 1,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira"
+            ],
+            "caracteristicas_condominio": [
+                ""
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento cobertura de 2 dormitórios no bairro Menino Deus. \r\n\r\nImóvel com 119m² de área privativa, localizado no 4º andar, posição solar norte e pi...",
+            "titulo": "Exclusividade Guarida: Apartamento cobertura, 2 dormitórios no bairro Menino Deus, com VAGA COBERTA e CHURRASQUEIRA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/menino-deus-porto-alegre-rs/cobertura/5610",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 0,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 2794.91,
+            "valor_total_txt": "R$ 2.795",
+            "renda_minima_num": 8384.73,
+            "renda_minima_txt": "R$ 8.385",
+            "custos_servicos_num": 49.91,
+            "latitude": -30.0583688,
+            "longitude": -51.2157823,
+            "custos_servicos_txt": "R$ 50",
+            "seguro_fogo_num": 460,
+            "seguro_fogo_txt": "R$ 460",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/14908/-17.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14908/-17.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14908/-24.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14908/-25.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14908/-19.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/14908/-20.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Apartamento de 2 dormitórios semi mobiliado no bairro Menino Deus, com 90m² de área privativa, piso laminado e churrasqueira. \r\n\r\nSão originalmente 3 quartos, sendo que 1 foi transformado em closet. Dos outros dois, um é suíte. O sol da manhã bate na suíte, depois passando pelo segundo quarto. Imóvel conta com living 2 ambientes com rack e painel para TV e Split. Cozinha americana com bancada, armários sob medida e churrasqueira, área de serviço com tanque e aquecedor , banheiro suíte e social com box e armário, semi mobiliado com móveis planejados nos dormitórios. \r\n\r\n** MESA DE JANTAR, SOFÁ, GELADEIRA E MICROONDAS NÃO ESTÃO INCLUSOS **\r\n\r\nImóvel conta com 01 box de garagem coberto.\r\n\r\nEdifício dispõe de brinquedoteca, churrasqueira, circuito de tv interno, elevador, espaço gourmet, fitness, interfone, medição de água individual, medição de gás individual, piscina adulta, playground, portaria 24hrs, quadra poliesportiva, quiosque com churrasqueira, salão de festas, sala office\u00A0e\u00A0Roof top 360º. \r\n\r\nPróximo às principais vias de Porto Alegre. Encontramos em suas imediações grandes Avenidas como Azenha, e Érico Veríssimo. Próximo a Supermercados, Restaurantes, Shopping Praia de Belas e Hospitais.\u00A0\r\n\r\nBairro nobre de Porto Alegre, localizado na região Centro-Sul é considerado um dos antigos da cidade. Ali você encontra diversas comodidades, desde instituições de ensino para todas idades, até farmácias e shoppings, como o Praia de Belas. O comércio e a rotina de trabalho leva muitas pessoas ao dia a dia do bairro que possui gastronomia diversificada. Quem mora no Menino Deus não pode deixar de fazer um passeio às margens do Rio Guaíba, além de conhecer o Parque Marinha do Brasil. Ele é uma excelente opção de moradia, com fácil acesso às regiões da cidade e cheio de opções de lazer, cultura e diversão. \r\n\r\nAgende uma visita presencial ou através de vídeo chamada com a equipe de consultores da Guarida!",
+            "valor_txt": "R$ 3.500",
+            "valor_num": 3500,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 650,00",
+            "valor_iptu_txt": "R$ 200,00",
+            "categoria": {
+                "nome": "Apartamento",
+                "id": 1,
+                "slug": "apartamento"
+            },
+            "codigo": "14908",
+            "bairro": "Menino Deus",
+            "cidade": "Porto Alegre",
+            "tipo": 1,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "http://storage.googleapis.com/site-cms-prod/08_Selo_81x81_17014c75d9/08_Selo_81x81_17014c75d9.png",
+            "id": "14908",
+            "quartos": 2,
+            "area_total_txt": "90",
+            "area_util_num": 90,
+            "area_privativa_txt": "90",
+            "negocio": 0,
+            "endereco": "Rua Nunes Machado, 319",
+            "cidade_id": 1,
+            "bairro_id": 5,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "319",
+            "vagas": 1,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "piscina",
+                "salao_festas",
+                "academia",
+                "playground",
+                "numero_elevador",
+                "circuito_tv"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Apartamento de 2 dormitórios semi mobiliado no bairro Menino Deus, com 90m² de área privativa, piso laminado e churrasqueira. \r\n\r\nSão originalmente 3 ...",
+            "titulo": "Exclusividade Guarida: Apartamento com 2 dormitórios, no bairro Menino Deus, com VAGA e CHURRASQUEIRA INTERNA!",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/menino-deus-porto-alegre-rs/apartamento/14908",
+            "favorito": "",
+            "banheiros": 2,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 1,
+            "suites": 1,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 4425.95,
+            "valor_total_txt": "R$ 4.426",
+            "renda_minima_num": 13277.85,
+            "renda_minima_txt": "R$ 13.278",
+            "custos_servicos_num": 75.95,
+            "latitude": -30.0520709,
+            "longitude": -51.2168767,
+            "custos_servicos_txt": "R$ 76",
+            "seguro_fogo_num": 525,
+            "seguro_fogo_txt": "R$ 525",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                }
+            ]
+        },
+        {
+            "num_fotos": 5,
+            "imagem": "https://imgimoview.guarida.com.br/guarida/Imoveis/13820/img-46.jpg",
+            "fotos": [
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13820/img-46.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13820/img-5.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13820/img-7.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13820/img-4.jpg"
+                },
+                {
+                    "foto": "https://imgimoview.guarida.com.br/guarida/Imoveis/13820/img-1.jpg"
+                }
+            ],
+            "whatsapp": "",
+            "phone": "",
+            "descricao_interna": "Excelente casa no Condomínio Terra Ville com 3 suítes, sendo uma suíte master com closet e banheira de hidromassagem. \r\n\r\nVocê pode contar também com um amplo living com lareira que integra a sala de estar à sala de jantar, lavabo, gabinete, cozinha com armários planejados, área de serviço/lavanderia independente, banheiro auxiliar, varanda com espaço gourmet com churrasqueira e amplo jardim, além de duas vagas de garagem (uma vaga coberta). Permanecem os móveis fixos e splits.\r\n\r\nSe você quer comodidade e tranquilidade no seu dia a dia, o Terra Ville na Zona Sul será o ambiente ideal para sua família. Referência em qualidade de vida, possui diversos espaços para viver momentos incríveis, cercado de segurança e natureza. Ele foi projetado em cada detalhe para encantar nos mais belos cenários, tendo estrutura de clube para todas as idades. Dentre os benefícios do condomínio estão um belo lago, campo de golfe, brinquedoteca, piscina adulta, infantil e aquecida, pista de caminhada com vista incrível, playground, praça arborizada, quadra de esportes, quadra de tênis, salão de festas, SPA sauna, portaria 24 horas, ronda de segurança e muito mais.\r\n\r\nNão perca tempo e agende já uma visita com um dos melhores consultores da região e faça uma locação tranquila e segura!",
+            "valor_txt": "R$ 5.000",
+            "valor_num": 5000,
+            "valor_tabela_txt": "",
+            "valor_condominio_txt": "R$ 2.575,00",
+            "valor_iptu_txt": "R$ 265,00",
+            "categoria": {
+                "nome": "Casa em Condomínio",
+                "id": 3,
+                "slug": "casa-em-condominio"
+            },
+            "codigo": "13820",
+            "bairro": "Terra Ville",
+            "cidade": "Porto Alegre",
+            "tipo": 3,
+            "desconto": "",
+            "carencia": "",
+            "flag": "",
+            "telefone_primario": "(51) 3327-9001",
+            "telefone_secundario": "",
+            "selo_img": "",
+            "id": "13820",
+            "quartos": 3,
+            "area_total_txt": "230",
+            "area_util_num": 230,
+            "area_privativa_txt": "230",
+            "negocio": 0,
+            "endereco": "Avenida Juca Batista, 8000",
+            "cidade_id": 1,
+            "bairro_id": 37,
+            "estado_id": 1,
+            "uf": "RS",
+            "numero": "8000",
+            "vagas": 2,
+            "caracteristicas_imovel": [
+                "pet_friendly",
+                "churrasqueira"
+            ],
+            "caracteristicas_condominio": [
+                "portaria_24hrs",
+                "circuito_tv",
+                "salao_festas",
+                "playground",
+                "academia",
+                "piscina"
+            ],
+            "promo_extra": "",
+            "video": "",
+            "tour": "",
+            "exclusivo": "True",
+            "informacao": "Excelente casa no Condomínio Terra Ville com 3 suítes, sendo uma suíte master com closet e banheira de hidromassagem. \r\n\r\nVocê pode contar também com ...",
+            "titulo": "Exclusividade Guarida: Casa em Condomínio FECHADO, 3 quartos, 3 suítes, 2 vagas, TERRA VILLE - Porto Alegre/RS",
+            "telefone": "(51) 3327-9001",
+            "url": "/detalhe/alugar/terra-ville-porto-alegre-rs/casa-em-condominio/13820",
+            "favorito": "",
+            "banheiros": 3,
+            "tag_tour": true,
+            "tag_carencia": true,
+            "tag_exclusivo": true,
+            "tag_valorTabela": true,
+            "campanha_id": 0,
+            "suites": 3,
+            "churrasqueira": false,
+            "portaria24hrs": false,
+            "elevadores": 0,
+            "valor_anterior_num": 0,
+            "valor_anterior_txt": "R$ 0",
+            "valor_total_num": 7948.5,
+            "valor_total_txt": "R$ 7.948",
+            "renda_minima_num": 23845.5,
+            "renda_minima_txt": "R$ 23.846",
+            "custos_servicos_num": 108.5,
+            "latitude": -30.1851231,
+            "longitude": -51.1742205,
+            "custos_servicos_txt": "R$ 108",
+            "seguro_fogo_num": 1000,
+            "seguro_fogo_txt": "R$ 1.000",
+            "desconto_percentual": "",
+            "tags": [
+                {
+                    "id": 1,
+                    "nome": "Super-Destaque",
+                    "cor_de_texto": "#46556b",
+                    "cor_de_fundo": "#fcef09"
+                }
+            ]
+        }
+    ],
+    "sugestoes": [],
+    "paginacao": {
+        "current": "2",
+        "pages": 56
+    },
+    "total": 831
+}

@@ -1,0 +1,3710 @@
+{
+    "items": [
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Lote/terreno"
+            ],
+            "categoriaImovel": "Lote/terreno",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 142,
+            "codigoCorretor": 5794,
+            "valores": {
+                "valor": 5300000,
+                "cond": 0.01,
+                "iptu": 0,
+                "antigo": 5895000,
+                "desconto": 10.09
+            },
+            "caracteristicas": {
+                "quartos": 0,
+                "titulo": "Terreno no bairro Cavalhada",
+                "banheiros": 0,
+                "suites": 0,
+                "garagens": 0,
+                "area": 7438,
+                "descricao": "Terreno - Com  7.438 de área total  plano, tendo frente de 30,18 x 207,00. Excelente para construtoras em área nobre do bairro Cavalhada. Totalmente murado.\r\nPróximo do condomínio Parque Knnor. Permitido construção de prédio com até 6 andares ou casas em condomínio.\r\nAgende visita com a corretora que conhece este terreno. A Auxiliadora Predial conta com essa e mais de 50000 ofertas de imóveis para venda em Porto Alegre e região. Conte conosco para tornar realidade o sonho da sua nova casa!\r\n\r\n."
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Cavalhada",
+                "rua": "DA CAVALHADA",
+                "numero": "6484",
+                "lat": -30.1021139,
+                "lng": -51.2311588
+            },
+            "empreendimento": " ",
+            "id": 336010,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 2,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "336010/iboS77195O5Mlr51_336010605ccc91f11db.jpg",
+                    "336010/iboS77195O5Mlr51_336010605ccc76e6f21.jpg",
+                    "336010/iboS77195O5Mlr51_336010605ccc64ac488.jpg",
+                    "336010/iboS77195O5Mlr51_336010605ccc3b580a6.jpg",
+                    "336010/iboS77195O5Mlr51_336010605ccc42f05d1.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Pronto para morar"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 305,
+            "nomeAgencia": "Agência Zona Sul",
+            "fotoAgencia": " ",
+            "codigoAgenciaPai": "142",
+            "emailAgencia": "vendaszonasul@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1160",
+            "nomeCorretor": "Marco Moreira",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5794_60f5baf11ee46.jpg",
+            "celularCorretor": "51 98512.6009",
+            "emailCorretor": "marco.moreira@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Zona Sul",
+                    "foto": " ",
+                    "celular": "",
+                    "codigo": "142",
+                    "codigoPai": "142",
+                    "email": "vendaszonasul@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1160"
+                },
+                "corretor": {
+                    "nome": "Marco Moreira",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5794_60f5baf11ee46.jpg",
+                    "fone": "",
+                    "celular": "51 98512.6009",
+                    "email": "marco.moreira@auxiliadorapredial.com.br",
+                    "codigo": 5794
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa em Condomínio"
+            ],
+            "categoriaImovel": "Casa em Condomínio",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 43,
+            "codigoCorretor": 6027,
+            "valores": {
+                "valor": 5500000,
+                "cond": 0,
+                "iptu": 100,
+                "antigo": 5500000,
+                "desconto": 0
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "SEGURANÇA E LIBERDADE!",
+                "banheiros": 5,
+                "suites": 4,
+                "garagens": 4,
+                "area": 484.17,
+                "descricao": "Espetacular casa no condomínio Terra Ville Belém Novo Golf Club com 484,17 m². Amplo living com lareira, 2 lavabos, 4 suítes (sendo a master com lareira), mezanino, gabinete, atelier ou sala de Pilates, cozinha, 2 áreas de serviço (interna e externa), churrasqueira interna e externa, pergolado, piscina, lago nos fundos e jardim sensacional. Espera para sauna seca em um dos banheiros e piso aquecido em toda a casa. 4 vagas de garagem. Condomínio alto padrão com infraestrutura completa de lazer e segurança.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Belém Novo",
+                "rua": "JUCA BATISTA",
+                "numero": "8000",
+                "lat": -30.1851231,
+                "lng": -51.17422049999999
+            },
+            "empreendimento": "Terra Ville",
+            "id": 193838,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 8,
+            "totalFavoritos": 3,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "193838/iL6mJ83_1938385d97619386227.jpg",
+                    "193838/iL6mJ83_1938385d9761a6313d8.jpg",
+                    "193838/iL6mJ83_1938385d97618d3aaa6.jpg",
+                    "193838/iL6mJ83_1938385d976199b5273.jpg",
+                    "193838/iL6mJ83_1938385d9761a95b3be.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 1961,
+            "nomeAgencia": "Agência Jardim Europa",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/jardimeuropa_baixa.jpg",
+            "codigoAgenciaPai": "43",
+            "emailAgencia": "jardimeuropa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3061.1155",
+            "nomeCorretor": "Patrícia Pivetta ",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6027_619393a4b390e.jpg",
+            "celularCorretor": "51 99821.9917",
+            "agenciaCelular": "51 99189.6602",
+            "emailCorretor": "patricia.pivetta@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Jardim Europa",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/jardimeuropa_baixa.jpg",
+                    "celular": "51 99189.6602",
+                    "codigo": "43",
+                    "codigoPai": "43",
+                    "email": "jardimeuropa@auxiliadorapredial.com.br",
+                    "fone": "51 3061.1155"
+                },
+                "corretor": {
+                    "nome": "Patrícia Pivetta ",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6027_619393a4b390e.jpg",
+                    "fone": "",
+                    "celular": "51 99821.9917",
+                    "email": "patricia.pivetta@auxiliadorapredial.com.br",
+                    "codigo": 6027
+                }
+            }
+        },
+        {
+            "titulo": "Financiamento Seguro e Sem Burocracias",
+            "url": "https://mkt.auxiliadorapredial.com.br/financiamento?utm_source=site&utm_medium=banner&utm_campaign=vendas&utm_content=Banner de Financiamento&utm_term=banner-busca",
+            "imagem": "https://cms.auxiliadorapredial.com.br/uploads/Banner_Financiamento_LP_257x355_04_5886501e70.png",
+            "nomeCampanha": null
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 43,
+            "codigoCorretor": 2148,
+            "valores": {
+                "valor": 4770000,
+                "cond": 2700,
+                "iptu": 149,
+                "antigo": 5100000,
+                "desconto": 6.47
+            },
+            "caracteristicas": {
+                "quartos": 6,
+                "banheiros": 6,
+                "suites": 2,
+                "garagens": 4,
+                "area": 888.51,
+                "descricao": "ÓTIMA CASA A VENDA COM 06 dormitórios com armários, sendo 02 suítes, 01 master ocupando o andar inteiro e a outra com closet e sacada e terraço, living com lareira, sacada com churrasqueira, cozinha com pia e armários, área de serviço, lavabo, banheiro auxiliar, banheiro social com box e armários, subsolo com adega, casa com elevador, piso inferior com salão de festas, churrasqueira, piscina aquecida e sauna, pátio, 04 vagas para 04 carros, sendo 03 cobertas, 1000 m² de área privativa. Condomínio com hall de entrada e jardim inverno."
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Cavalhada",
+                "rua": "DA CAVALHADA",
+                "numero": "5205",
+                "lat": -30.1205091,
+                "lng": -51.22486170000001
+            },
+            "empreendimento": "Jardim do Sol",
+            "id": 350819,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 7,
+            "totalFavoritos": 1,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "350819/i2hI9363Vr085R_35081963768470abfb6.jpg",
+                    "350819/i2hI9363Vr085R_3508196376844962302.jpg",
+                    "350819/i2hI9363Vr085R_350819637684631cebe.jpg",
+                    "350819/i2hI9363Vr085R_35081963768485b8c63.jpg",
+                    "350819/i2hI9363Vr085R_350819637684a052c01.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 352,
+            "nomeAgencia": "Agência Jardim Europa",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/jardimeuropa_baixa.jpg",
+            "codigoAgenciaPai": "43",
+            "emailAgencia": "jardimeuropa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3061.1155",
+            "nomeCorretor": "Aloisio Pereira",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_2148_5cf7d1ee62ccf.jpg",
+            "celularCorretor": "51 99204.2167",
+            "agenciaCelular": "51 99189.6602",
+            "emailCorretor": "aloisio.pereira@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Jardim Europa",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/jardimeuropa_baixa.jpg",
+                    "celular": "51 99189.6602",
+                    "codigo": "43",
+                    "codigoPai": "43",
+                    "email": "jardimeuropa@auxiliadorapredial.com.br",
+                    "fone": "51 3061.1155"
+                },
+                "corretor": {
+                    "nome": "Aloisio Pereira",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_2148_5cf7d1ee62ccf.jpg",
+                    "fone": "",
+                    "celular": "51 99204.2167",
+                    "email": "aloisio.pereira@auxiliadorapredial.com.br",
+                    "codigo": 2148
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Lote/terreno"
+            ],
+            "categoriaImovel": "Lote/terreno",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 132,
+            "codigoCorretor": 5205,
+            "valores": {
+                "valor": 4750000,
+                "cond": 0,
+                "iptu": 100,
+                "antigo": 5000000,
+                "desconto": 5
+            },
+            "caracteristicas": {
+                "quartos": 0,
+                "banheiros": 0,
+                "suites": 0,
+                "garagens": 0,
+                "area": 11460,
+                "descricao": "NO CORAÇÃO BAIRRO TERESÓPOLIS , ENCONTRAMOS ESSE BELO E RARO TERRENO  DE MAIS  1 HECTARE , COM TESTADA DE  21,40M !\r\nPróximo a toda infraestrutura do bairro como :supermercado Zaffari  Teresópolis, UNIRITTER, comércio , av. Teresópolis  transporte público , igreja Nossa Senhora da gloria !Venha conhecer!!!\r\n\r\nº área  =11.460,00 M²\r\nº atividade predominantemente  residencial\r\nº índice de aproveitamento =1,30 até 2,00\r\nº área computável=12.316,20m² a 18.948,00\r\nº área não computável=6.158,100m² a 9.474,00m²\r\nº taxa de ocupação 75%= 7.105,50m²\r\nº alinhamento =4,50m do meio fio\r\nº largura logradouro=12,50m\r\n\r\nPDDUA lei 434/99  data 2014\r\n\r\n\r\nANALISA PROPOSTA!!!ACEITA PERMUTA!!!!\r\n\r\nAgende sua visita com a nossa corretora licenciada!!! Disponível no WhatsApp!!!!!"
+            },
+            "endereco": {
+                "tipo": "RUA",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Teresópolis",
+                "rua": "Professor Clemente Pinto",
+                "numero": "1111",
+                "lat": -30.0790434,
+                "lng": -51.21170009999999
+            },
+            "empreendimento": " ",
+            "id": 360732,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 10,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "360732/i9V537yWjjY7lHk0wDb3t_36073261d09c2cbd599.jpg",
+                    "360732/i9V537yWjjY7lHk0wDb3t_36073261d09c2e403e9.jpg",
+                    "360732/i71iJ56pigu_36073261ce2044b277e.jpg",
+                    "360732/i71iJ56pigu_36073261ce20590d010.jpg",
+                    "360732/i71iJ56pigu_36073261ce204e581d2.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 147,
+            "nomeAgencia": "Agência Floresta A",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/floresta_baixa.jpg",
+            "codigoAgenciaPai": "109",
+            "emailAgencia": "florestaa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1104",
+            "nomeCorretor": "Graciette Santana",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5205_60f581a5bff43.jpeg",
+            "celularCorretor": "51 99964.6466",
+            "agenciaCelular": ".",
+            "emailCorretor": "graciette.santana@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Floresta A",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/floresta_baixa.jpg",
+                    "celular": ".",
+                    "codigo": "132",
+                    "codigoPai": "109",
+                    "email": "florestaa@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1104"
+                },
+                "corretor": {
+                    "nome": "Graciette Santana",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5205_60f581a5bff43.jpeg",
+                    "fone": "",
+                    "celular": "51 99964.6466",
+                    "email": "graciette.santana@auxiliadorapredial.com.br",
+                    "codigo": 5205
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 142,
+            "codigoCorretor": 6041,
+            "valores": {
+                "valor": 3499000,
+                "cond": 0.01,
+                "iptu": 100,
+                "antigo": 4799000,
+                "desconto": 27.09
+            },
+            "caracteristicas": {
+                "quartos": 5,
+                "titulo": "Ampla casa no bairro Ipanema",
+                "banheiros": 10,
+                "suites": 3,
+                "garagens": 3,
+                "area": 800,
+                "descricao": "Excelente imóvel, vista magnífica do rio, cinco dormitórios, três suítes, dois gabinetes, hidro, sacada, lavabo, copa-cozinha, sala de jogos, sala de churrasqueira, forno de pizza, adega, sala de fitness, duas dependências de empregada, pátio com pomar, piscina, três vagas de garagem mais estacionamento. Casa de cinema vale a pena conhecer! área total: 800m².",
+                "listaCaracteristica": [
+                    "Churrasqueira",
+                    "Lavabo",
+                    "Sacada"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Ipanema",
+                "rua": "DEA COUFAL",
+                "numero": "1015",
+                "lat": -30.1289508,
+                "lng": -51.2273246
+            },
+            "empreendimento": " ",
+            "id": 8512,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 4,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "8512/i_auxiliad_8512_3.jpg",
+                    "8512/i_auxiliad_8512_1.jpg",
+                    "8512/i_auxiliad_8512_21.jpg",
+                    "8512/i_auxiliad_8512_22.jpg",
+                    "8512/i_auxiliad_8512_20.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 943,
+            "nomeAgencia": "Agência Zona Sul",
+            "fotoAgencia": " ",
+            "codigoAgenciaPai": "142",
+            "emailAgencia": "vendaszonasul@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1160",
+            "nomeCorretor": "Suzane Nogueira ",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6041_624afc85ac3f2.jpeg",
+            "celularCorretor": "51 99960.9770",
+            "emailCorretor": "suzane.nogueira@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Zona Sul",
+                    "foto": " ",
+                    "celular": "",
+                    "codigo": "142",
+                    "codigoPai": "142",
+                    "email": "vendaszonasul@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1160"
+                },
+                "corretor": {
+                    "nome": "Suzane Nogueira ",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6041_624afc85ac3f2.jpeg",
+                    "fone": "",
+                    "celular": "51 99960.9770",
+                    "email": "suzane.nogueira@auxiliadorapredial.com.br",
+                    "codigo": 6041
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Chácara/Sítio/Fazenda"
+            ],
+            "categoriaImovel": "Chácara/Sítio/Fazenda",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 142,
+            "codigoCorretor": 5630,
+            "valores": {
+                "valor": 4332000,
+                "cond": 0.01,
+                "iptu": 100,
+                "antigo": 4560000,
+                "desconto": 5
+            },
+            "caracteristicas": {
+                "quartos": 0,
+                "titulo": "Sitio com 3 dormitórios no bairro lageado.",
+                "banheiros": 0,
+                "suites": 0,
+                "garagens": 0,
+                "area": 450,
+                "descricao": "Sítio 21 hectares em Porto Alegre, na Estrada das Quirinas. Excepcional área, com natureza exuberante, mata nativa, riacho, lago e poço artesiano. Casa principal com 3 dormitórios, 3 banheiros, living enorme com 3 ambientes, 2 cozinhas, quiosque com churrasqueira, piscina. Salão de festas com churrasqueira e lareira. Casa de hóspedes com dois dormitórios, dois banheiros, um suíte e cozinha. Agende já sua visita!"
+            },
+            "endereco": {
+                "tipo": "ESTRADA",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Lageado",
+                "rua": "das Quirinas",
+                "numero": "3000",
+                "lat": -30.160862,
+                "lng": -51.08307199999999
+            },
+            "empreendimento": " ",
+            "id": 367180,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 2,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "367180/i967r980JLh2_367180622f5be3cc067.jpg",
+                    "367180/i967r980JLh2_367180622f5bdfe7415.jpg",
+                    "367180/i967r980JLh2_367180622f5be1e2f6c.jpg",
+                    "367180/i967r980JLh2_367180622f5be5c7954.jpg",
+                    "367180/i967r980JLh2_367180622f5be7ae334.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 118,
+            "nomeAgencia": "Agência Zona Sul",
+            "fotoAgencia": " ",
+            "codigoAgenciaPai": "142",
+            "emailAgencia": "vendaszonasul@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1160",
+            "nomeCorretor": "João Xavier",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5630_6232339f2b10b.jpeg",
+            "celularCorretor": "51 99722.7707",
+            "emailCorretor": "joao.xavier@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Zona Sul",
+                    "foto": " ",
+                    "celular": "",
+                    "codigo": "142",
+                    "codigoPai": "142",
+                    "email": "vendaszonasul@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1160"
+                },
+                "corretor": {
+                    "nome": "João Xavier",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5630_6232339f2b10b.jpeg",
+                    "fone": "",
+                    "celular": "51 99722.7707",
+                    "email": "joao.xavier@auxiliadorapredial.com.br",
+                    "codigo": 5630
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 64,
+            "codigoCorretor": 4597,
+            "valores": {
+                "valor": 4050000,
+                "cond": 2100,
+                "iptu": 100,
+                "antigo": 4500000,
+                "desconto": 10
+            },
+            "caracteristicas": {
+                "quartos": 6,
+                "titulo": "Linda Mansão no Condomínio JARDIM DO SOL!",
+                "banheiros": 5,
+                "suites": 2,
+                "garagens": 4,
+                "area": 701.75,
+                "descricao": "Casa impecável disponível para a venda com 701,75 m² de área construída no condomínio Jardim do Sol, em alto padrão na Zona Sul de Porto Alegre, muito bem conservada de extremo bom gosto que encanta a qualquer um que tenha a oportunidade de visita-la. Localizado na parte alta e no coração do Jardim do Sol, pátio grande com lindo paisagismo que nos dá à sensação de estar no campo pelo silêncio que nos faz pensar estar fora de Porto Alegre. A casa possui 6 dormitórios, living para 3 ambientes, amplo escritório, gabinete, biblioteca, 2 suítes, uma Master com Jacuzzi, academia, ampla cozinha com churrasqueira e mesa de bilhar, 4 vagas na garagem cobertas, pátio com piscina, sauna úmida, sala de massagem, adega, 2 depósitos, dependência de empregados completa. Condomínio com total segurança e infraestrutura de lazer.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Sacada",
+                    "Água Quente",
+                    "Sauna"
+                ]
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Cavalhada",
+                "rua": "DA CAVALHADA",
+                "numero": "5205",
+                "lat": -30.1237818,
+                "lng": -51.226544
+            },
+            "empreendimento": "Condominio Jardim do Sol",
+            "id": 286147,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "286147/i69r61wv48kl596_2861475c90e1f0dd35f.jpg",
+                    "286147/i69r61wv48kl596_2861475c90e207e1b3c.jpg",
+                    "286147/i69r61wv48kl596_2861475c90e209e606a.jpg",
+                    "286147/i69r61wv48kl596_2861475c90e1f86d2e1.jpg",
+                    "286147/i69r61wv48kl596_2861475c90e2060a1f6.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 2546,
+            "nomeAgencia": "Agência Ipiranga",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/ipiranga_baixa.jpg",
+            "codigoAgenciaPai": "64",
+            "emailAgencia": "ipiranga@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3252.5555",
+            "nomeCorretor": "Julio Jardim",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_4597_59a5d2bbce3e3.jpeg",
+            "celularCorretor": "51 99554.8020",
+            "emailCorretor": "julio.jardim@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Ipiranga",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/ipiranga_baixa.jpg",
+                    "celular": "",
+                    "codigo": "64",
+                    "codigoPai": "64",
+                    "email": "ipiranga@auxiliadorapredial.com.br",
+                    "fone": "51 3252.5555"
+                },
+                "corretor": {
+                    "nome": "Julio Jardim",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_4597_59a5d2bbce3e3.jpeg",
+                    "fone": "",
+                    "celular": "51 99554.8020",
+                    "email": "julio.jardim@auxiliadorapredial.com.br",
+                    "codigo": 4597
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 45,
+            "codigoCorretor": 5595,
+            "valores": {
+                "valor": 3680000,
+                "cond": 0,
+                "iptu": 10100,
+                "antigo": 4000000,
+                "desconto": 8
+            },
+            "caracteristicas": {
+                "quartos": 6,
+                "titulo": "Casa, 06 dormitórios  C/suíte, Bairro Chácara das Pedras.",
+                "banheiros": 8,
+                "suites": 6,
+                "garagens": 3,
+                "area": 406,
+                "descricao": "Casa, 06 dormitórios  C/suíte, bairro Chácara das Pedras  com dois Pavimentos. Primeiro Pavimento com hall de entrada, amplo living com 2 ambientes e lareira, escritório, sala de jantar, cozinha, copa, 2 suítes sendo uma com banheira, lavabo, área de serviço, dependência de empregada e garagem para 2 carros. Conta ainda, com churrasqueira, pátio com 80m² privativos (que pode ser transformado em estacionamento). Segundo Pavimento com 4 suítes, sala íntima e sacada.\r\n Localização excelente e com muita segurança, fica de frente a praça e Posto da Brigada Militar. Próximo a Rua Teixeira Mendes e ao Shopping Iguatemi, fácil acesso a transporte público, supermercados e a todas as conveniências que o bairro oferece. \r\nAceita Financiamento. Agende Logo Sua Visita!\r\n\r\n Agenda   sua  visita  com o  corretor agenciador.!",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Praça",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Chácara das Pedras",
+                "rua": "LIMA DUARTE",
+                "numero": "57",
+                "lat": -30.035018,
+                "lng": -51.1642833
+            },
+            "empreendimento": " ",
+            "id": 384756,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 6,
+            "totalFavoritos": 0,
+            "video": "https://youtu.be/RCFjNeQ6IVM",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "384756/iFe77EP6Z1r_384756632b71f60c552.jpg",
+                    "384756/iFe77EP6Z1r_384756632b70be5da0e.jpg",
+                    "384756/iFe77EP6Z1r_384756632b70c4abb99.jpg",
+                    "384756/iFe77EP6Z1r_384756632b71de79ff6.jpg",
+                    "384756/iFe77EP6Z1r_384756632b71d4dbdb8.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 64,
+            "nomeAgencia": "Agência João Wallig",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/joaowallig_baixa.jpg",
+            "codigoAgenciaPai": "45",
+            "emailAgencia": "joaowallig@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3337.0303",
+            "nomeCorretor": "Marli Rossato ",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5595_61afb827d75f9.jpeg",
+            "celularCorretor": "51 98138.4027",
+            "emailCorretor": "marli.rossato@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência João Wallig",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/joaowallig_baixa.jpg",
+                    "celular": "",
+                    "codigo": "45",
+                    "codigoPai": "45",
+                    "email": "joaowallig@auxiliadorapredial.com.br",
+                    "fone": "51 3337.0303"
+                },
+                "corretor": {
+                    "nome": "Marli Rossato ",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5595_61afb827d75f9.jpeg",
+                    "fone": "",
+                    "celular": "51 98138.4027",
+                    "email": "marli.rossato@auxiliadorapredial.com.br",
+                    "codigo": 5595
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 64,
+            "codigoCorretor": 4597,
+            "valores": {
+                "valor": 3900000,
+                "cond": 1,
+                "iptu": 5600,
+                "antigo": 3900000,
+                "desconto": 0
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "Bélissima casa com Vista Permanente para o Rio Guaíba e Por do Sol",
+                "banheiros": 3,
+                "suites": 1,
+                "garagens": 4,
+                "area": 411.11,
+                "descricao": "Belíssima casa com linda vista panorâmica na parte alta do Jardim Isabel, na região que mais cresce em Porto Alegre, com vista deslumbrante para o Rio Guaíba e Pôr do Sol. Toda mobiliada com 411 m², de área construída, toda construção com material de 1º linha. Piscina e salão de festas, amplo living com sistema de automação de iluminação e segurança, aberturas, telão e lareira à gás. Terraço com vista, gabinete, copa cozinha e churrasqueira, lavanderia e despensa. 2 Suítes: 1 Master com banheira de hidromassagem, 1 suíte com closet e sacada integrada, 2 dormitórios e 2 banheiros social. Quintal com piscina, quiosque, pequena horta, árvores frutíferas e salão de festas. Garagem coberta para 4 carros. O bairro Jardim Isabel, localiza-se na Zona Sul da cidade próximo ao bairro Ipanema e muito próximo de todas as conveniências do bairro como: Zaffari Ipanema, Colégios: João Paulo I, Colégio Marista Ipanema, Faculdade Anhanguera, Cassol Center Lar. Também tem o Parque Natural Morro do Osso um refúgio em meio a civilização. O Morro do Osso é o único dos 44 existentes na Capital que conta de fato, com uma estrutura para receber turistas.",
+                "listaCaracteristica": [
+                    "Churrasqueira",
+                    "Depósito",
+                    "Sacada",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Jardim Isabel",
+                "rua": "DOUTOR ARNALDO DA SILVA FERREIRA",
+                "numero": "380",
+                "lat": -30.1237879,
+                "lng": -51.23274170000002
+            },
+            "empreendimento": "Jardim Isabel",
+            "id": 291507,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "291507/i7342PU24l79V_2915075cc35a86d41c5.jpg",
+                    "291507/i7342PU24l79V_2915075cc3594495440.jpg",
+                    "291507/i7342PU24l79V_2915075cc3598a65460.jpg",
+                    "291507/i7342PU24l79V_2915075cc35a11a32e8.jpg",
+                    "291507/i7342PU24l79V_2915075cc359a38cd5b.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 912,
+            "nomeAgencia": "Agência Ipiranga",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/ipiranga_baixa.jpg",
+            "codigoAgenciaPai": "64",
+            "emailAgencia": "ipiranga@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3252.5555",
+            "nomeCorretor": "Julio Jardim",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_4597_59a5d2bbce3e3.jpeg",
+            "celularCorretor": "51 99554.8020",
+            "emailCorretor": "julio.jardim@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Ipiranga",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/ipiranga_baixa.jpg",
+                    "celular": "",
+                    "codigo": "64",
+                    "codigoPai": "64",
+                    "email": "ipiranga@auxiliadorapredial.com.br",
+                    "fone": "51 3252.5555"
+                },
+                "corretor": {
+                    "nome": "Julio Jardim",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_4597_59a5d2bbce3e3.jpeg",
+                    "fone": "",
+                    "celular": "51 99554.8020",
+                    "email": "julio.jardim@auxiliadorapredial.com.br",
+                    "codigo": 4597
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Cobertura"
+            ],
+            "categoriaImovel": "Cobertura",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 21,
+            "codigoCorretor": 3752,
+            "valores": {
+                "valor": 3610000,
+                "cond": 5500,
+                "iptu": 100,
+                "antigo": 3800000,
+                "desconto": 5
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "titulo": "VENHA MORAR COM CHARME E CONFORTO AO LADO DA ENCOL!",
+                "banheiros": 4,
+                "suites": 3,
+                "garagens": 4,
+                "area": 501.29,
+                "descricao": "Cobertura reformada com 500m2 de área privativa, semi mobiliada, próxima a ENCOL e CIDADE NILO - empreendimento de altissimo padrão da construtora Melnick!!! Possui amplo living em mármore para 3 ambientes com lareira, lavabo, sala de jantar, ampla cozinha e dependência de empregada. São 3 suítes, sendo 1 suíte master, gabinete fechado, sacada com 50m² de área aberta. Andar superior com living para 3 ambientes e cozinha americana, churrasqueira, terraço, deck com piscina aquecida. Possui 4 vagas de garagem, elevador codificado, gás central. Condomínio com jardim, portaria 24 horas, sistema de segurança e salão de festas. Atendemos também por WhatsApp!",
+                "listaCaracteristica": [
+                    "Churrasqueira",
+                    "Lavabo",
+                    "Sacada",
+                    "Terraço",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Bela Vista",
+                "rua": "BARAO DE UBA",
+                "numero": "708",
+                "lat": -30.03468479999999,
+                "lng": -51.18758539999999
+            },
+            "empreendimento": "Passo de Seville",
+            "id": 292254,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 2,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "292254/i9489O_2922545d014c658dbf4.jpg",
+                    "292254/i9489O_2922545d014ca1167f3.jpg",
+                    "292254/i9489O_2922545d014d1606660.jpg",
+                    "292254/i9489O_2922545d014d4e5bcc8.jpg",
+                    "292254/i9489O_2922545d014f20a0c07.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 1184,
+            "nomeAgencia": "Agência Nilo Peçanha",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/nilo__baixa.jpg",
+            "codigoAgenciaPai": "21",
+            "emailAgencia": "nilopecanha@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3083.6666",
+            "nomeCorretor": "Georgia Cruz",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_3752_6206bf98919fa.jpeg",
+            "celularCorretor": "51 99999.6279",
+            "emailCorretor": "georgia.cruz@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Nilo Peçanha",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/nilo__baixa.jpg",
+                    "celular": "",
+                    "codigo": "21",
+                    "codigoPai": "21",
+                    "email": "nilopecanha@auxiliadorapredial.com.br",
+                    "fone": "51 3083.6666"
+                },
+                "corretor": {
+                    "nome": "Georgia Cruz",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_3752_6206bf98919fa.jpeg",
+                    "fone": "",
+                    "celular": "51 99999.6279",
+                    "email": "georgia.cruz@auxiliadorapredial.com.br",
+                    "codigo": 3752
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 126,
+            "codigoCorretor": 6029,
+            "valores": {
+                "valor": 3325000,
+                "cond": 0,
+                "iptu": 8800,
+                "antigo": 3500000,
+                "desconto": 5
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "Casa no Av. Guaíba em Porto Alegre",
+                "banheiros": 6,
+                "suites": 4,
+                "garagens": 6,
+                "area": 429,
+                "descricao": "Maravilhosa residência na Avenida Guaíba frente aos veleiros com 429 m² de área privativa, vista para o Rio Guaíba e cidade, elevador panorâmico, 3 dormitórios, sendo 1 suíte e 1 suíte master com closet, gabinete,  amplas salas, lareira e varanda. Piscina e churrasqueira externas com vista fantástica, nos fundos apartamento de caseiros impecável com entrada independente, adega, vidros blindados nas janelas das sacadas, alarme,  garagem  para para vários carros. Estuda imóveis. \r\nEntre em contato com o corretor indicado, disponível também pelo whatsapp.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Cristal",
+                "rua": "GUAIBA",
+                "numero": "3090",
+                "lat": -30.097539,
+                "lng": -51.2584425
+            },
+            "empreendimento": " ",
+            "id": 277387,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 3,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "277387/idsj1UA9Sx6163_27738762e2daf24dc4b.jpg",
+                    "277387/idsj1UA9Sx6163_27738762e2d9cce033c.jpg",
+                    "277387/idsj1UA9Sx6163_27738762e2d9ced6763.jpg",
+                    "277387/idsj1UA9Sx6163_27738762e2d9d0c7321.jpg",
+                    "277387/idsj1UA9Sx6163_27738762e2d9d2d147f.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 117,
+            "nomeAgencia": "Agência Petrópolis C",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/PETROPOLIS_baixa.jpg",
+            "codigoAgenciaPai": "107",
+            "emailAgencia": "petropolisc@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.6186",
+            "nomeCorretor": "Marcelo Atti",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6029_615c5bed4d394.jpeg",
+            "celularCorretor": "51 99697.1209",
+            "emailCorretor": "marcelo.atti@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Petrópolis C",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/PETROPOLIS_baixa.jpg",
+                    "celular": "",
+                    "codigo": "126",
+                    "codigoPai": "107",
+                    "email": "petropolisc@auxiliadorapredial.com.br",
+                    "fone": "51 3216.6186"
+                },
+                "corretor": {
+                    "nome": "Marcelo Atti",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6029_615c5bed4d394.jpeg",
+                    "fone": "",
+                    "celular": "51 99697.1209",
+                    "email": "marcelo.atti@auxiliadorapredial.com.br",
+                    "codigo": 6029
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 137,
+            "codigoCorretor": 4523,
+            "valores": {
+                "valor": 2800000,
+                "cond": 0.01,
+                "iptu": 6000,
+                "antigo": 3500000,
+                "desconto": 20
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "Casa em frente ao Guaíba",
+                "banheiros": 3,
+                "suites": 1,
+                "garagens": 3,
+                "area": 370,
+                "descricao": "Excelente residência 370m² área privativa, 4 dormitórios, sendo um suíte com sacada, vista definida para o Rio Guaíba, living 03 ambientes, lavabo, cozinha, área de serviço, lavanderia, banheiro auxiliar. Pátio com piscina e churrasqueira, jardim com uma linda vista para o Guaíba e o clube Jangadeiros. O imóvel conta ainda com casa para caseiro, 03 vagas de garagem cobertas, portão eletrônico  e câmeras de segurança .",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Lavabo",
+                    "Sacada",
+                    "Terraço",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Tristeza",
+                "rua": "VICENTE FAILACE",
+                "numero": "21",
+                "lat": -30.1079337,
+                "lng": -51.2588915
+            },
+            "empreendimento": " ",
+            "id": 331889,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 2,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "331889/i9lLAWgLi0Zw8N357H0_33188960132dabab1f6.jpg",
+                    "331889/i9lLAWgLi0Zw8N357H0_33188960132e31adf24.jpg",
+                    "331889/i9lLAWgLi0Zw8N357H0_33188960132d7a7a98f.jpg",
+                    "331889/i9lLAWgLi0Zw8N357H0_33188960132da155223.jpg",
+                    "331889/i9lLAWgLi0Zw8N357H0_33188960132d915efa3.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 29,
+            "nomeAgencia": "Agência Centro B",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/centro_baixa.jpg",
+            "codigoAgenciaPai": "1",
+            "emailAgencia": "centrob@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1101",
+            "nomeCorretor": "Jaqueline Fernandes Lopes",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/jaqueline.lopes@auxiliadorapredial.com.br.jpg",
+            "celularCorretor": "51 98682.0142",
+            "agenciaCelular": "51 99952.9959",
+            "emailCorretor": "jaqueline.lopes@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Centro B",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/centro_baixa.jpg",
+                    "celular": "51 99952.9959",
+                    "codigo": "137",
+                    "codigoPai": "1",
+                    "email": "centrob@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1101"
+                },
+                "corretor": {
+                    "nome": "Jaqueline Fernandes Lopes",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/jaqueline.lopes@auxiliadorapredial.com.br.jpg",
+                    "fone": "",
+                    "celular": "51 98682.0142",
+                    "email": "jaqueline.lopes@auxiliadorapredial.com.br",
+                    "codigo": 4523
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Prédio"
+            ],
+            "categoriaImovel": "Prédio",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 134,
+            "codigoCorretor": 5310,
+            "valores": {
+                "valor": 3000000,
+                "cond": 1,
+                "iptu": 18000,
+                "antigo": 3500000,
+                "desconto": 14.29
+            },
+            "caracteristicas": {
+                "quartos": 0,
+                "banheiros": 0,
+                "suites": 0,
+                "garagens": 4,
+                "area": 1250,
+                "descricao": "Prédio comercial com 600m² de área útil frente para Avenida de grande fluxo, 100 metros da Avenida Oscar Pereira, antigo ponto de loja de veículos. Segundo piso com dois excelentes apartamentos individuais, com 560m² de área útil, cada um, piscina e salão de festas individuais, aberturas em louro frejó, 04 dormitórios, sendo 01 suíte, living para vários ambientes, deposito, cozinha ampla, 04 banheiros, pisos em tabuão e cerâmica portobelo, garagem fechada para 04 vagas.  Com habite-se para revenda de veículos ou ideal para restaurante. Agende sua visita personalizada com a corretora licenciada e venha conferir!    Estou disponível no whatsapp. Adicione o telefone que aparece ao lado",
+                "listaCaracteristica": [
+                    "Churrasqueira",
+                    "Lavabo"
+                ]
+            },
+            "endereco": {
+                "tipo": "RUA",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Glória",
+                "rua": "CORONEL APARICIO BORGES",
+                "numero": "693",
+                "lat": -30.0739592,
+                "lng": -51.2012297
+            },
+            "empreendimento": " ",
+            "id": 41649,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "iauxiliad41649_133831.jpg",
+                    "41649/iauxiliad41649_24134.jpg",
+                    "41649/iauxiliad41649_342190.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 533,
+            "nomeAgencia": "Agência Menino Deus A",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/menino deus_baixa.jpg",
+            "codigoAgenciaPai": "105",
+            "emailAgencia": "meninodeusa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1159",
+            "nomeCorretor": "Samir Bulmini",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/corretor_semfoto.jpg",
+            "celularCorretor": "51 98484.8562",
+            "agenciaCelular": ".",
+            "emailCorretor": "samir.bulmini@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Menino Deus A",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/menino deus_baixa.jpg",
+                    "celular": ".",
+                    "codigo": "134",
+                    "codigoPai": "105",
+                    "email": "meninodeusa@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1159"
+                },
+                "corretor": {
+                    "nome": "Samir Bulmini",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/corretor_semfoto.jpg",
+                    "fone": "",
+                    "celular": "51 98484.8562",
+                    "email": "samir.bulmini@auxiliadorapredial.com.br",
+                    "codigo": 5310
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa em Condomínio"
+            ],
+            "categoriaImovel": "Casa em Condomínio",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 115,
+            "codigoCorretor": 2217,
+            "valores": {
+                "valor": 3200000,
+                "cond": 1920.01,
+                "iptu": 100,
+                "antigo": 3500000,
+                "desconto": 8.57
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "INDESCRITÍVEL, PROJETO ARROJADO, CONTEMPORÂNEO E DIFERENCIADO, VENHA CONHECER¹",
+                "banheiros": 5,
+                "suites": 4,
+                "garagens": 4,
+                "area": 399,
+                "descricao": "Projeto arrojado contemporâneo e diferenciado  no Alphaville Toscana.\r\nCasa indescritível,  com 399m2, com 4 suítes, sendo 1 na parte térrea, a máster com closet, parte superior suítes com sacada, living para 4 ambientes, lareira, lavabo despensa, depósito, piscina privativa, amplo pátio, garagem para 3 carros cobertos.                                                         Alphaville Porto Alegre,  terreno com 729,41m2 para você desfrutar com sua família e morar em um Condomínio fechado alto padrão com total infraestrutura, como clube, piscina aquecida, quadra poliesportiva, quadra de tênis em saibro fechada, fitness, sala kids, trilha ecológica e segurança 24h.\r\nAgende agora sua visita com nossos corretores licenciados!",
+                "listaCaracteristica": [
+                    "Churrasqueira",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Estrada",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Alphaville",
+                "rua": "DAS TRES MENINAS",
+                "numero": "1501",
+                "lat": -30.1235373,
+                "lng": -51.1908185
+            },
+            "empreendimento": "AlphaVille - Toscana",
+            "id": 148480,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "148480/ioRE9c2Xh7946A_14848063dc910eabab6.jpg",
+                    "148480/ioRE9c2Xh7946A_14848063dc9148afc4a.jpg",
+                    "148480/ioRE9c2Xh7946A_14848063dc908ddba22.jpg",
+                    "148480/ioRE9c2Xh7946A_14848063dc91b19b406.jpg",
+                    "148480/ioRE9c2Xh7946A_14848063dc90ff17a2a.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Pronto para morar"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 567,
+            "nomeAgencia": "Agência Nova Ipanema",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/novaIpanema_baixa_2.jpg",
+            "codigoAgenciaPai": "115",
+            "emailAgencia": "novaipanema@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3030.9001",
+            "nomeCorretor": "Marcia Gonçalves",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_2217_60f6d7a17d377.png",
+            "celularCorretor": "51 99995.0993",
+            "agenciaCelular": "997759001",
+            "emailCorretor": "marcia.goncalves@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Nova Ipanema",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/novaIpanema_baixa_2.jpg",
+                    "celular": "997759001",
+                    "codigo": "115",
+                    "codigoPai": "115",
+                    "email": "novaipanema@auxiliadorapredial.com.br",
+                    "fone": "51 3030.9001"
+                },
+                "corretor": {
+                    "nome": "Marcia Gonçalves",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_2217_60f6d7a17d377.png",
+                    "fone": "",
+                    "celular": "51 99995.0993",
+                    "email": "marcia.goncalves@auxiliadorapredial.com.br",
+                    "codigo": 2217
+                }
+            }
+        },
+        {
+            "titulo": "As melhores opções de lançamentos ",
+            "url": "https://mkt.auxiliadorapredial.com.br/top-empreendimentos?utm_source=site&utm_medium=banner&utm_campaign=vendas&utm_content=BannerdeLançamentos&utm_term=banner-lançamentos",
+            "imagem": "https://cms.auxiliadorapredial.com.br/uploads/Banner_Busca_Site_Campanha_Lancamentos_3de8775bd3.png",
+            "nomeCampanha": null
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Cobertura"
+            ],
+            "categoriaImovel": "Cobertura",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 137,
+            "codigoCorretor": 5703,
+            "valores": {
+                "valor": 3300000,
+                "cond": 3300,
+                "iptu": 500,
+                "antigo": 3499000,
+                "desconto": 5.69
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "APRECIE UMA VIDA NOVA NESTA COBERTURA DESLUMBRANTE.",
+                "banheiros": 7,
+                "suites": 4,
+                "garagens": 5,
+                "area": 461,
+                "descricao": "Belíssima cobertura com 4 suítes no bairro Bela Vista, em Porto Alegre/RS!\r\n\r\nO imóvel conta com 461,34m² de área privativa, 5 vagas de garagem.\r\n\r\nNo andar inferior ele é todo reformado com piso em mármore travertino aquecido, amplo living 3 ambientes com sacada integrada, lareira, lavabo,  3 suítes completas com móveis sob medida, cozinha americana com ilha para refeições, escada com pedra espanhola e uma vista privilegiada e perene com 180º para o Guaíba.\r\n\r\nNo andar superior contem um amplo salão, churrasqueira, lareira, escritório, 1 suíte, banheira de hidromassagem, piscina e uma vista deslumbrante.\r\n\r\nMarque a sua visita!",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Sacada",
+                    "Terraço",
+                    "Água Quente",
+                    "Sauna"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Bela Vista",
+                "rua": "ANTONIO PARREIRAS",
+                "numero": "190",
+                "lat": -30.03048219999999,
+                "lng": -51.19175329999999
+            },
+            "empreendimento": "Maison Vercelli",
+            "id": 109572,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 3,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "109572/iNWA53b88_10957260083d8b57da6.jpg",
+                    "109572/iNWA53b88_10957260083db219f9e.jpg",
+                    "109572/iNWA53b88_10957260083da62b535.jpg",
+                    "109572/iNWA53b88_10957260083dfbe6cbd.jpg",
+                    "109572/iNWA53b88_10957260083e3bacff3.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 1300,
+            "nomeAgencia": "Agência Centro B",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/centro_baixa.jpg",
+            "codigoAgenciaPai": "1",
+            "emailAgencia": "centrob@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1101",
+            "nomeCorretor": "Adrian Luzzi",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5703_62cdcbf9d604c.jpeg",
+            "celularCorretor": "51 99407.0050",
+            "agenciaCelular": "51 99952.9959",
+            "emailCorretor": "adrian.luzzi@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Centro B",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/centro_baixa.jpg",
+                    "celular": "51 99952.9959",
+                    "codigo": "137",
+                    "codigoPai": "1",
+                    "email": "centrob@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1101"
+                },
+                "corretor": {
+                    "nome": "Adrian Luzzi",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5703_62cdcbf9d604c.jpeg",
+                    "fone": "",
+                    "celular": "51 99407.0050",
+                    "email": "adrian.luzzi@auxiliadorapredial.com.br",
+                    "codigo": 5703
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Cobertura"
+            ],
+            "categoriaImovel": "Cobertura",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 43,
+            "codigoCorretor": 4014,
+            "valores": {
+                "valor": 3000000,
+                "cond": 100,
+                "iptu": 100,
+                "antigo": 3499000,
+                "desconto": 14.26
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "titulo": "LUXO EM BELISSIMA COBERTURA NO BAIRRO FLORESTA",
+                "banheiros": 4,
+                "suites": 3,
+                "garagens": 2,
+                "area": 412,
+                "descricao": "BELISSIMA COBERTURA no bairro mais charmoso de Porto Alegre! Com 412,00m² de área privativa, 03 suítes master, dois halls de entrada, living 04 ambientes bem distintos, lareira, churrasqueira, lavabo, cozinha montada. Cobertura com living e home theater, lavabo, gabinete, área externa com vista panorâmica 360 graus, piscina com hidromassagem, lavanderia e dependência de empregada completa.\r\n\r\nAgende sua visita com nossa corretora licenciada!\r\nTambem atendemos pelo WhatsApp!!!",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Moinhos de Vento",
+                "rua": "FELIX DA CUNHA",
+                "numero": "1060",
+                "lat": -30.0223442,
+                "lng": -51.2018468
+            },
+            "empreendimento": "Edifício Viareggio",
+            "id": 203619,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 3,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "203619/iauxiliad203619_2522341.jpg",
+                    "203619/iauxiliad203619_645160.jpg",
+                    "203619/iauxiliad203619_2258358.jpg",
+                    "203619/iauxiliad203619_2958389.jpg",
+                    "203619/iauxiliad203619_2149805.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 194,
+            "nomeAgencia": "Agência Jardim Europa",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/jardimeuropa_baixa.jpg",
+            "codigoAgenciaPai": "43",
+            "emailAgencia": "jardimeuropa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3061.1155",
+            "nomeCorretor": "Marcio Timm",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_4014_5cf53c8c1c2a4.jpeg",
+            "celularCorretor": "51 99448.5000",
+            "agenciaCelular": "51 99189.6602",
+            "emailCorretor": "marcio.timm@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Jardim Europa",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/jardimeuropa_baixa.jpg",
+                    "celular": "51 99189.6602",
+                    "codigo": "43",
+                    "codigoPai": "43",
+                    "email": "jardimeuropa@auxiliadorapredial.com.br",
+                    "fone": "51 3061.1155"
+                },
+                "corretor": {
+                    "nome": "Marcio Timm",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_4014_5cf53c8c1c2a4.jpeg",
+                    "fone": "",
+                    "celular": "51 99448.5000",
+                    "email": "marcio.timm@auxiliadorapredial.com.br",
+                    "codigo": 4014
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa em Condomínio"
+            ],
+            "categoriaImovel": "Casa em Condomínio",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 142,
+            "codigoCorretor": 6041,
+            "valores": {
+                "valor": 2968000,
+                "cond": 1300,
+                "iptu": 2682,
+                "antigo": 3390000,
+                "desconto": 12.45
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "titulo": "Alto Padrão, vista, localização e privacidade em um só lugar",
+                "banheiros": 6,
+                "suites": 3,
+                "garagens": 3,
+                "area": 367.15,
+                "descricao": "Excepcional residência em condomínio de alto padrão na Vila Assunção, com elevador panorâmico, vista deslumbrante para o rio, com 367,15m² de área privativa, sendo living para 03 ambientes com lareira, lavabo, espaço gourmet, cozinha americana integrado com varanda, churrasqueira elétrica, 03 suítes, sendo 01 máster com closet e hidro, 02 amplos terraços com total vista para o rio, sendo 01 com piscina jacuzzi, escadarias em mármore branco, piso superior com amplo living e banheiro social, sendo total de 06 banheiros, lavanderia, quarto térreo com banheiro auxiliar, podendo ser a quarta suíte, garagem para 03 carros, mais uma churrasqueira no térreo e depósito.\r\nCondomínio com poucas unidades e piscina coletiva. O imóvel destaca-se pelo alto padrão de acabamento e localização, muita claridade em todos os níveis, indiscutível e perene vista para o rio com muito requinte e sofisticação. O elevador dá acesso independente aos quatro andares. Paredes duplas com isolamento térmico. \r\nEstuda imóvel na negociação.\r\nAgende sua visita!",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Terraço",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Praça",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Vila Assunção",
+                "rua": "JOSE ASSUNCAO",
+                "numero": "22",
+                "lat": -30.1024043,
+                "lng": -51.2641168
+            },
+            "empreendimento": "RESIDENCIAL SOLARIUM VILLA",
+            "id": 391243,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "391243/iN8H93t7G7f7eol4XE_391243638103eb790a6.jpg",
+                    "391243/iN8H93t7G7f7eol4XE_39124363810451db6b1.jpg",
+                    "391243/iN8H93t7G7f7eol4XE_39124363810447774fb.jpg",
+                    "391243/iN8H93t7G7f7eol4XE_39124363810440679b6.jpg",
+                    "391243/iN8H93t7G7f7eol4XE_3912436381037423434.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 374,
+            "nomeAgencia": "Agência Zona Sul",
+            "fotoAgencia": " ",
+            "codigoAgenciaPai": "142",
+            "emailAgencia": "vendaszonasul@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1160",
+            "nomeCorretor": "Suzane Nogueira ",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6041_624afc85ac3f2.jpeg",
+            "celularCorretor": "51 99960.9770",
+            "emailCorretor": "suzane.nogueira@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Zona Sul",
+                    "foto": " ",
+                    "celular": "",
+                    "codigo": "142",
+                    "codigoPai": "142",
+                    "email": "vendaszonasul@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1160"
+                },
+                "corretor": {
+                    "nome": "Suzane Nogueira ",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_6041_624afc85ac3f2.jpeg",
+                    "fone": "",
+                    "celular": "51 99960.9770",
+                    "email": "suzane.nogueira@auxiliadorapredial.com.br",
+                    "codigo": 6041
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 139,
+            "codigoCorretor": 5332,
+            "valores": {
+                "valor": 2500000,
+                "cond": 1,
+                "iptu": 5000,
+                "antigo": 3000000,
+                "desconto": 16.67
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "titulo": "Casa sobrado 3 dormitórios com 4 vagas. no bairro Jardim Itú / Planalto",
+                "banheiros": 3,
+                "suites": 2,
+                "garagens": 4,
+                "area": 360,
+                "descricao": "Excelente residência localizada no melhor ponto do Jardim Planalto construída em terreno de 14 x30, com recuo ajardinado frontal e duas entradas sociais.\r\nResidência de 2 pavimentos. No pavimento térreo temos: living de 3 ambientes, lavabo, estar de inverno com lareira, sala de jantar, copa cozinha com armários planejados, lavanderia com pátio, dependência completa de empregada (com banheiro auxiliar) e dois depósitos.  Nos fundos possui amplo terreno com piscina, varanda, salão com churrasqueira e banheiro social. O sobrado tem garagem fechada para 2 carros e mais 2 vagas descobertas.\r\nNo 2° pavimento temos: 3 dormitórios de casal, sendo um deles com suíte e cloused, e os dois restantes com suíte americana, os três dormitórios possuem amplas sacadas, também um amplo mezanino, como estar íntimo ou gabinete. Todo o piso da residência, da parte social e íntima é em tabuão, e o material de construção da mesma é de primeira qualidade. Agende sua visita e confira, faça sua proposta e realize um excelente negócio, é só entrar e morar. Estuda-se imóvel em dação como parte de pagamento.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Jardim Planalto",
+                "rua": "JOSE HENRIQUE MARIANTE",
+                "numero": "255",
+                "lat": -30.0165125,
+                "lng": -51.1370193
+            },
+            "empreendimento": " ",
+            "id": 24070,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 2,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "24070/iKB44AF6Vgd4sYf85_2407061bc96a58728b.jpg",
+                    "24070/iKB44AF6Vgd4sYf85_2407061bc967542148.jpg",
+                    "24070/iKB44AF6Vgd4sYf85_2407061bc9669326dd.jpg",
+                    "24070/iKB44AF6Vgd4sYf85_2407061bc966ad270e.jpg",
+                    "24070/iKB44AF6Vgd4sYf85_2407061bc966caf5d0.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 251,
+            "nomeAgencia": "Agência Petrópolis F",
+            "fotoAgencia": " ",
+            "codigoAgenciaPai": "107",
+            "emailAgencia": "petropolisf@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.6188",
+            "nomeCorretor": "Monica Bertiz",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5332_5e580ec127240.jpeg",
+            "celularCorretor": "51 98419.7057",
+            "emailCorretor": "monica.bertiz@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Petrópolis F",
+                    "foto": " ",
+                    "celular": "",
+                    "codigo": "139",
+                    "codigoPai": "107",
+                    "email": "petropolisf@auxiliadorapredial.com.br",
+                    "fone": "51 3216.6188"
+                },
+                "corretor": {
+                    "nome": "Monica Bertiz",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5332_5e580ec127240.jpeg",
+                    "fone": "",
+                    "celular": "51 98419.7057",
+                    "email": "monica.bertiz@auxiliadorapredial.com.br",
+                    "codigo": 5332
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 132,
+            "codigoCorretor": 1653,
+            "valores": {
+                "valor": 2650000,
+                "cond": 0.11,
+                "iptu": 3200,
+                "antigo": 3000000,
+                "desconto": 11.67
+            },
+            "caracteristicas": {
+                "quartos": 5,
+                "titulo": "CONFORTO E REQUINTE NO MESMO ENDEREÇO!",
+                "banheiros": 5,
+                "suites": 3,
+                "garagens": 4,
+                "area": 380,
+                "descricao": "Casa única! Top! Lindo projeto arquitetônico dessa residência que oferece estilo e lazer em rua charmosa do bairro! Tudo o que se busca ao lado do Parque Germânia, Shopping Iguatemi, colégios Província de São Pedro, Anchieta e faculdade Unisinos, além de tudo que o bairro oferece numa localização privilegiada! \r\nNo andar térreo um espaçoso living com pé direito alto e o outro ambiente com lareira integrado à sala de jantar e o apoio da copa-cozinha, banheiro e  lavanderia também neste andar. E para desfrutar de excelentes momentos um espaço gourmet com churrasqueira de frente para a piscina!\r\nNo andar superior uma suíte máster e dois dormitórios, todos com closet e amplo banheiro .\r\nNa parte dos fundos a segunda casa que privilegia já no andar térreo um amplo living com lareira e outro espaço gourmet com churrasqueira. No andar superior duas suítes com closet e ainda conta com um sótão. Ah, os 10 splits disponíveis na casa ficam,  o gás central tem bateria 2 P45 com aquecedor de passagem. A garagem coberta para 02 carros e na parte externa tem capacidade para mais dois carros. Agende sua visita com a corretora indicada e confira essa excelente oportunidade de negócio.!",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "RUA",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Vila Jardim",
+                "rua": "ARARUAMA",
+                "numero": "785",
+                "lat": -30.0324574,
+                "lng": -51.158356
+            },
+            "empreendimento": " ",
+            "id": 366800,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 0,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "366800/i4PK7UTU4270f_366800625729bb616ca.jpg",
+                    "366800/i4PK7UTU4270f_366800625729b98d2af.jpg",
+                    "366800/i4PK7UTU4270f_366800625729bdaed74.jpg",
+                    "366800/i4PK7UTU4270f_366800625729c082821.jpg",
+                    "366800/i4PK7UTU4270f_366800625729c2a5e65.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 152,
+            "nomeAgencia": "Agência Floresta A",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/floresta_baixa.jpg",
+            "codigoAgenciaPai": "109",
+            "emailAgencia": "florestaa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.1104",
+            "nomeCorretor": "Luciane Wilhelms",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1653_5cfa7b1f1ed48.jpg",
+            "celularCorretor": "51 99188.8840",
+            "agenciaCelular": ".",
+            "emailCorretor": "luciane.wilhelms@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Floresta A",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/floresta_baixa.jpg",
+                    "celular": ".",
+                    "codigo": "132",
+                    "codigoPai": "109",
+                    "email": "florestaa@auxiliadorapredial.com.br",
+                    "fone": "51 3216.1104"
+                },
+                "corretor": {
+                    "nome": "Luciane Wilhelms",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1653_5cfa7b1f1ed48.jpg",
+                    "fone": "",
+                    "celular": "51 99188.8840",
+                    "email": "luciane.wilhelms@auxiliadorapredial.com.br",
+                    "codigo": 1653
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 129,
+            "codigoCorretor": 1196,
+            "valores": {
+                "valor": 2700000,
+                "cond": 0,
+                "iptu": 0,
+                "antigo": 3000000,
+                "desconto": 10
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "banheiros": 3,
+                "suites": 1,
+                "garagens": 4,
+                "area": 500,
+                "descricao": "Residência ampla com 500m², muito bem localizada no bairro Conceicão, próximo a todos recursos. 3 dormitórios com suite, living 2 ambientes, 2 banheiros sociais, copa cozinha, dependência completa. garagens para 4 carros. Estou  a disposição no whatsApp. Adicione o telefone que aparece ao lado."
+            },
+            "endereco": {
+                "tipo": "RUA",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Vila Conceicao",
+                "rua": "SIMAO BOLIVAR",
+                "numero": "372",
+                "lat": -30.11983579999999,
+                "lng": -51.2585426
+            },
+            "empreendimento": " ",
+            "id": 383062,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "383062/iC8256_38306263069778ac7fe.jpg",
+                    "383062/iC8256_3830626306977b1145f.jpg",
+                    "383062/iC8256_3830626306977d3d6af.jpg",
+                    "383062/iC8256_3830626306977faba36.jpg",
+                    "383062/iC8256_38306263069781ef73d.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 73,
+            "nomeAgencia": "Agência Petrópolis A",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/PETROPOLIS_baixa.jpg",
+            "codigoAgenciaPai": "107",
+            "emailAgencia": "petropolisa@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.6183",
+            "nomeCorretor": "Maria Helena Naspolini",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1196_5cab440cbf8e0.png",
+            "celularCorretor": "51 99189.6670",
+            "agenciaCelular": "51 98409.4404",
+            "emailCorretor": "maria.naspolini@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Petrópolis A",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/PETROPOLIS_baixa.jpg",
+                    "celular": "51 98409.4404",
+                    "codigo": "129",
+                    "codigoPai": "107",
+                    "email": "petropolisa@auxiliadorapredial.com.br",
+                    "fone": "51 3216.6183"
+                },
+                "corretor": {
+                    "nome": "Maria Helena Naspolini",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1196_5cab440cbf8e0.png",
+                    "fone": "",
+                    "celular": "51 99189.6670",
+                    "email": "maria.naspolini@auxiliadorapredial.com.br",
+                    "codigo": 1196
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 45,
+            "codigoCorretor": 2848,
+            "valores": {
+                "valor": 2990000,
+                "cond": 0.01,
+                "iptu": 4000,
+                "antigo": 2990000,
+                "desconto": 0
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "MUITO REQUINTE, BELEZA E SOFISTICAÇÃO COM TUDO PENSANDO NO BEM ESTAR.",
+                "banheiros": 6,
+                "suites": 3,
+                "garagens": 3,
+                "area": 600,
+                "descricao": "Belíssima mansão com 600 m² de área privativa, 4 dormitórios sendo 3 suítes, living amplo de vários ambientes, terraço com vista panorâmica e jardim de inverno. Duas salas de estar, cada uma com lareia, sala de cinema, gabinete, escritório, cozinha montada, salão gourmet com outra cozinha e churrasqueira, lavabo, área de serviço, dependência, depósito e muito mais. Piscina em pastilha, jardim com extensa área de laser. Acabamentos de primeira com madeira maciça, granito e mármore. Gás central, alarme, portão com controle remoto, monitoramento por câmeras, cerca elétrica, elevador de carga atendendo todos os andares, que pode ser facilmente transformado em elevador padrão. São 3 vagas de garagem Terreno medindo 11x40.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Sacada",
+                    "Terraço",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Vila Jardim",
+                "rua": "ARARUAMA",
+                "numero": "558",
+                "lat": -30.0347425,
+                "lng": -51.15817219999997
+            },
+            "empreendimento": " ",
+            "id": 307959,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 0,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "307959/i7S66VxY511229Owo44j_3079595df2a2417000a.jpg",
+                    "307959/i7S66VxY511229Owo44j_3079595df2a20c0b08f.jpg",
+                    "307959/i7S66VxY511229Owo44j_3079595df2a235647d2.jpg",
+                    "307959/i7S66VxY511229Owo44j_3079595df2a2efd22e4.jpg",
+                    "307959/i7S66VxY511229Owo44j_3079595df2a21ed7d5a.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 339,
+            "nomeAgencia": "Agência João Wallig",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/joaowallig_baixa.jpg",
+            "codigoAgenciaPai": "45",
+            "emailAgencia": "joaowallig@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3337.0303",
+            "nomeCorretor": "Olga Taukachova",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_2848_1015.jpg",
+            "celularCorretor": "51 99738.1772",
+            "emailCorretor": "olga.taukachova@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência João Wallig",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/joaowallig_baixa.jpg",
+                    "celular": "",
+                    "codigo": "45",
+                    "codigoPai": "45",
+                    "email": "joaowallig@auxiliadorapredial.com.br",
+                    "fone": "51 3337.0303"
+                },
+                "corretor": {
+                    "nome": "Olga Taukachova",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_2848_1015.jpg",
+                    "fone": "",
+                    "celular": "51 99738.1772",
+                    "email": "olga.taukachova@auxiliadorapredial.com.br",
+                    "codigo": 2848
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Cobertura"
+            ],
+            "categoriaImovel": "Cobertura",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 45,
+            "codigoCorretor": 5628,
+            "valores": {
+                "valor": 2920000,
+                "cond": 2800,
+                "iptu": 3000,
+                "antigo": 2920000,
+                "desconto": 0
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "Cobertura apaixonante com belíssima vista panorâmica",
+                "banheiros": 7,
+                "suites": 3,
+                "garagens": 4,
+                "area": 370.19,
+                "descricao": "Cobertura apaixonante, com belíssima vista panorâmica. Venha morar nos altos da Cristiano Fischer! Apartamento \r\n com 4 dormitórios, 3 suítes e closet, 2 lavabos,1 demi suíte, 1 banheiro auxiliar, jacuzzi, jardim, lareira, churrasqueira,  \r\n mezanino, porta blindada, 3 vagas de carro escrituradas mais 1 vaga não escriturada incluída num dos \r\n box,dependência completa e  totalmente mobiliado. Condomínio com salão de festas, churrasqueira e lareira, \r\n playground, portaria 24 horas e zeladoria.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Terraço",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Jardim Botânico",
+                "rua": "PROFESSOR CRISTIANO FISCHER",
+                "numero": "590",
+                "lat": -30.0449571,
+                "lng": -51.17199979999999
+            },
+            "empreendimento": "BELVEDERES HILL' S",
+            "id": 337544,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "337544/i9Ov18hQ803n25pKge_33754460784df11466e.jpg",
+                    "337544/i9Ov18hQ803n25pKge_33754460784dfc1580d.jpg",
+                    "337544/i9Ov18hQ803n25pKge_33754460784df98c0b6.jpg",
+                    "337544/i9Ov18hQ803n25pKge_33754460784e294b395.jpg",
+                    "337544/i9Ov18hQ803n25pKge_33754460784df39db60.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio",
+                "Mobiliado"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": true,
+            "visualizacoes": 330,
+            "nomeAgencia": "Agência João Wallig",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/joaowallig_baixa.jpg",
+            "codigoAgenciaPai": "45",
+            "emailAgencia": "joaowallig@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3337.0303",
+            "nomeCorretor": "Carmem Jacques",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5628_5fc5566d878d4.jpg",
+            "celularCorretor": "51 99967.8277",
+            "emailCorretor": "carmem.jacques@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência João Wallig",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/joaowallig_baixa.jpg",
+                    "celular": "",
+                    "codigo": "45",
+                    "codigoPai": "45",
+                    "email": "joaowallig@auxiliadorapredial.com.br",
+                    "fone": "51 3337.0303"
+                },
+                "corretor": {
+                    "nome": "Carmem Jacques",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5628_5fc5566d878d4.jpg",
+                    "fone": "",
+                    "celular": "51 99967.8277",
+                    "email": "carmem.jacques@auxiliadorapredial.com.br",
+                    "codigo": 5628
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Apartamento"
+            ],
+            "categoriaImovel": "Apartamento",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 21,
+            "codigoCorretor": 3752,
+            "valores": {
+                "valor": 2755000,
+                "cond": 2800,
+                "iptu": 5000,
+                "antigo": 2900000,
+                "desconto": 5
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "titulo": "PURA PRIVACIDADE, UNICO NO ANDAR!",
+                "banheiros": 5,
+                "suites": 3,
+                "garagens": 3,
+                "area": 274.93,
+                "descricao": "Apartamento de três suítes, decorado por arquiteto, proporcionando um charme irresistível e que reflete a elegância da sua localização no bairro Rio Branco. Com um incrível living de 130m² e detalhes que aumentam a sensação de bem estar, como lareira e churrasqueira, espaço gourmet, além de ampla vista. Com 274m² de área privativa, o apartamento conta também com gabinete e sala de cinema, área íntima composta por três suítes, sendo uma americana. A suíte master possui closet e banheiro ele/ela. Três vagas de garagem individuais. O prédio possui portaria 24 horas, elevador, porteiro eletrônico, salão de festas, gás central e circuito de TV. Atendemos também por WhatsApp!",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Rio Branco",
+                "rua": "CORONEL JOAQUIM PEDRO SALGADO",
+                "numero": "145",
+                "lat": -30.0344288,
+                "lng": -51.19883429999999
+            },
+            "empreendimento": "Vivendas Bela Vista",
+            "id": 216980,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 5,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "216980/i22I0vl65N_2169805cc353d344bb9.jpg",
+                    "216980/i22I0vl65N_2169805cc354071e4a9.jpg",
+                    "216980/i22I0vl65N_2169805cc353b906c52.jpg",
+                    "216980/i22I0vl65N_2169805cc35401eaf73.jpg",
+                    "216980/i22I0vl65N_2169805cc353f0be6cd.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 2066,
+            "nomeAgencia": "Agência Nilo Peçanha",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/nilo__baixa.jpg",
+            "codigoAgenciaPai": "21",
+            "emailAgencia": "nilopecanha@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3083.6666",
+            "nomeCorretor": "Georgia Cruz",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_3752_6206bf98919fa.jpeg",
+            "celularCorretor": "51 99999.6279",
+            "emailCorretor": "georgia.cruz@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Nilo Peçanha",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/nilo__baixa.jpg",
+                    "celular": "",
+                    "codigo": "21",
+                    "codigoPai": "21",
+                    "email": "nilopecanha@auxiliadorapredial.com.br",
+                    "fone": "51 3083.6666"
+                },
+                "corretor": {
+                    "nome": "Georgia Cruz",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_3752_6206bf98919fa.jpeg",
+                    "fone": "",
+                    "celular": "51 99999.6279",
+                    "email": "georgia.cruz@auxiliadorapredial.com.br",
+                    "codigo": 3752
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa"
+            ],
+            "categoriaImovel": "Casa",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 64,
+            "codigoCorretor": 13,
+            "valores": {
+                "valor": 2650000,
+                "cond": 0,
+                "iptu": 100,
+                "antigo": 2900000,
+                "desconto": 8.62
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "Casa de alto padrão no Jardim Isabel",
+                "banheiros": 4,
+                "suites": 3,
+                "garagens": 4,
+                "area": 427.44,
+                "descricao": "Belíssima casa no Jardim Isabel, com projeto diferenciado e alto padrão de construção, escadaria com corrimão de aço escovado,  muita luz direta, com vista panorâmica, semi-mobiliada, living para quatro ambientes com varanda integrando a piscina e ao pateo, espaço gourmet com  churrasqueira, cozinha integrada com sala de jantar, lavabo, gabinete, tudo isso no nível da Rua, na parte intima  quatro dormitórios, sendo três  suítes e uma  máster com varanda e banheira, sala de cinema no ultimo pavimento,  estar intimo, no sub solo, garagem para 4 carros+ dependência de empregada, banheiro de serviço e lavanderia, mais  um salão de festas com quadra de esporte, casa com espera para elevador. Mais informações com o corretor credenciado."
+            },
+            "endereco": {
+                "tipo": "RUA",
+                "cidade": "PORTO ALEGRE",
+                "uf": "RS",
+                "bairro": "Jardim Isabel",
+                "rua": "CONSELHEIRO XAVIER DA COSTA",
+                "numero": "2439",
+                "lat": -30.12907,
+                "lng": -51.233239
+            },
+            "empreendimento": "Jardim Isabel",
+            "id": 43355,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 5,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "43355/ijQ3Qrp90Y24hFt_4335562b1c654dbb9f.jpg",
+                    "43355/ijQ3Qrp90Y24hFt_4335562b1c5f8348ee.jpg",
+                    "43355/ijQ3Qrp90Y24hFt_4335562b1c6dc83619.jpg",
+                    "43355/ijQ3Qrp90Y24hFt_4335562b1c6478f21c.jpg",
+                    "43355/ijQ3Qrp90Y24hFt_4335562b1c6d2f014f.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 562,
+            "nomeAgencia": "Agência Ipiranga",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/ipiranga_baixa.jpg",
+            "codigoAgenciaPai": "64",
+            "emailAgencia": "ipiranga@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3252.5555",
+            "nomeCorretor": "Marcelo Gonçalves",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_13_1206.jpg",
+            "celularCorretor": "51 99396.7202",
+            "emailCorretor": "marcelo.goncalves@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Ipiranga",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/ipiranga_baixa.jpg",
+                    "celular": "",
+                    "codigo": "64",
+                    "codigoPai": "64",
+                    "email": "ipiranga@auxiliadorapredial.com.br",
+                    "fone": "51 3252.5555"
+                },
+                "corretor": {
+                    "nome": "Marcelo Gonçalves",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_13_1206.jpg",
+                    "fone": "",
+                    "celular": "51 99396.7202",
+                    "email": "marcelo.goncalves@auxiliadorapredial.com.br",
+                    "codigo": 13
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Sobrado"
+            ],
+            "categoriaImovel": "Sobrado",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 139,
+            "codigoCorretor": 1087,
+            "valores": {
+                "valor": 2200000,
+                "cond": 0,
+                "iptu": 100,
+                "antigo": 2800000,
+                "desconto": 21.43
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "banheiros": 3,
+                "suites": 1,
+                "garagens": 3,
+                "area": 358.78,
+                "descricao": "Maravilho sobrado com vista aberta para o Guaíba! 3 suítes sendo uma delas no sótão com lareira e churrasqueira e sacadas em todas as suítes, possibilidade do 4º dormitório, amplo living, sala de jantar, sala de tv, gabinete, cozinha completa com dependência, garagem fechada para 3 carros mais pátio podendo colocar mais. terreno em aclive medindo 12x50, com piscina e mine cancha esportiva."
+            },
+            "endereco": {
+                "tipo": "RUA",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Jardim Isabel",
+                "rua": "DOUTOR ARNALDO DA SILVA FERREIRA",
+                "numero": "115",
+                "lat": -30.1260872,
+                "lng": -51.2314281
+            },
+            "empreendimento": " ",
+            "id": 382135,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "382135/i18lL628MvL3_38213563495bd330fb3.jpg",
+                    "382135/i18lL628MvL3_38213563495ae9bfd33.jpg",
+                    "382135/i18lL628MvL3_38213563495aeb35ecd.jpg",
+                    "382135/i18lL628MvL3_38213563495aec99226.jpg",
+                    "382135/i18lL628MvL3_38213563495aee0dd21.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 77,
+            "nomeAgencia": "Agência Petrópolis F",
+            "fotoAgencia": " ",
+            "codigoAgenciaPai": "107",
+            "emailAgencia": "petropolisf@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.6188",
+            "nomeCorretor": "Deisy Wendhausen ",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1087_5cab49486c9e4.png",
+            "celularCorretor": "51 99387.8030",
+            "emailCorretor": "deisy.buhr@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Petrópolis F",
+                    "foto": " ",
+                    "celular": "",
+                    "codigo": "139",
+                    "codigoPai": "107",
+                    "email": "petropolisf@auxiliadorapredial.com.br",
+                    "fone": "51 3216.6188"
+                },
+                "corretor": {
+                    "nome": "Deisy Wendhausen ",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1087_5cab49486c9e4.png",
+                    "fone": "",
+                    "celular": "51 99387.8030",
+                    "email": "deisy.buhr@auxiliadorapredial.com.br",
+                    "codigo": 1087
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Casa em Condomínio"
+            ],
+            "categoriaImovel": "Casa em Condomínio",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 102,
+            "codigoCorretor": 1778,
+            "valores": {
+                "valor": 2660000,
+                "cond": 900,
+                "iptu": 3000,
+                "antigo": 2800000,
+                "desconto": 5
+            },
+            "caracteristicas": {
+                "quartos": 4,
+                "titulo": "Belíssima casa com vista deslumbrante para o Guaíba!",
+                "banheiros": 4,
+                "suites": 3,
+                "garagens": 4,
+                "area": 566.1,
+                "descricao": "Luxuosa e moderna casa em condomínio, com vista para a cidade e rio Guaíba. Com 3 suítes (todas com hidro, sendo a suíte máster com hidro e closet e sacada, dormitório de hóspede, living com 2 ambientes, sala ampla e ensolarada com lareira, cozinha equipada e moderna contando com sala de jantar. No 3º pavimento temos o terraço com vista de 360 graus, uma sala equipada com fitness. Design com conceito moderno e acolhedor. No lado externo temos piscina, jardim e canil. Na frente da casa um playground do condomínio. Agende uma visita com o corretor credenciado.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Sacada",
+                    "Terraço"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Nonoai",
+                "rua": "ALCEBIADES ANTONIO DOS SANTOS",
+                "numero": "356",
+                "lat": -30.0966879,
+                "lng": -51.22134619999997
+            },
+            "empreendimento": "Condomínio dos Montes",
+            "id": 215914,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 2,
+            "totalFavoritos": 2,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "215914/i193069Q_2159145df8ec1eb6ebc.jpg",
+                    "215914/i193069Q_2159145df8ebf0b521b.jpg",
+                    "215914/i193069Q_2159145df8ec0c44457.jpg",
+                    "215914/i193069Q_2159145df8ebfc2a2cb.jpg",
+                    "215914/i193069Q_2159145df8ec3e2b2e7.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 1378,
+            "nomeAgencia": "Agência Carlos Gomes",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/country_baixa.jpg",
+            "codigoAgenciaPai": "102",
+            "emailAgencia": "carlosgomes@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3073.0101",
+            "nomeCorretor": "Jaqueline Panato",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1778_5d5ef12cf3829.PNG",
+            "celularCorretor": "51 98283.1898",
+            "emailCorretor": "jaqueline.panato@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Carlos Gomes",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/country_baixa.jpg",
+                    "celular": "",
+                    "codigo": "102",
+                    "codigoPai": "102",
+                    "email": "carlosgomes@auxiliadorapredial.com.br",
+                    "fone": "51 3073.0101"
+                },
+                "corretor": {
+                    "nome": "Jaqueline Panato",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1778_5d5ef12cf3829.PNG",
+                    "fone": "",
+                    "celular": "51 98283.1898",
+                    "email": "jaqueline.panato@auxiliadorapredial.com.br",
+                    "codigo": 1778
+                }
+            }
+        },
+        {
+            "titulo": "Financiamento Seguro e Sem Burocracias",
+            "url": "https://mkt.auxiliadorapredial.com.br/financiamento?utm_source=site&utm_medium=banner&utm_campaign=vendas&utm_content=Banner de Financiamento&utm_term=banner-busca",
+            "imagem": "https://cms.auxiliadorapredial.com.br/uploads/Banner_Financiamento_LP_257x355_04_5886501e70.png",
+            "nomeCampanha": null
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Apartamento"
+            ],
+            "categoriaImovel": "Apartamento",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 127,
+            "codigoCorretor": 5042,
+            "valores": {
+                "valor": 1995000,
+                "cond": 1000,
+                "iptu": 2500,
+                "antigo": 2780000,
+                "desconto": 28.24
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "banheiros": 6,
+                "suites": 3,
+                "garagens": 3,
+                "area": 172.55,
+                "descricao": "Maravilhoso apartamento todo mobiliado por Arquiteto com 3 dormitórios e 3 suítes (uma suíte foi transformada em Adega climatizada e sala de estudos/escritório), Living de 3 ambientes, Lareira, Churrasqueira, Lavabo, Copa/Cozinha prontas, Lavanderia, dependencia de empregada completa, 3 vagas de garagem ao lado da porta de entrada do estacionamento.\r\nMarque uma visita com o corretor ao lado ou veja detalhes pelo Whats.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Depósito",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Sacada",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Bela Vista",
+                "rua": "CASEMIRO DE ABREU",
+                "numero": "1351",
+                "lat": -30.0336682,
+                "lng": -51.19387829999999
+            },
+            "empreendimento": "Spazio Reale",
+            "id": 32544,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 6,
+            "totalFavoritos": 0,
+            "video": "https://www.youtube.com/watch?v=cJnpHHtrJ0k",
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "32544/iMBi6U0t2_325445fac4c5b477c6.jpg",
+                    "32544/iMBi6U0t2_325445fac4c4f005c8.jpg",
+                    "32544/iMBi6U0t2_325445fac4c598b054.jpg",
+                    "32544/iMBi6U0t2_325445fac4ca808c27.jpg",
+                    "32544/iMBi6U0t2_325445fac4c4cf3db1.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 458,
+            "nomeAgencia": "Agência Petrópolis D",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/PETROPOLIS_baixa.jpg",
+            "codigoAgenciaPai": "107",
+            "emailAgencia": "petropolisd@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3216.6185",
+            "nomeCorretor": "Ricardo Pelliccioli",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5042_5be5e10061f59.PNG",
+            "celularCorretor": "51 98956.8989",
+            "emailCorretor": "ricardo.pelliccioli@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Petrópolis D",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/PETROPOLIS_baixa.jpg",
+                    "celular": "",
+                    "codigo": "127",
+                    "codigoPai": "107",
+                    "email": "petropolisd@auxiliadorapredial.com.br",
+                    "fone": "51 3216.6185"
+                },
+                "corretor": {
+                    "nome": "Ricardo Pelliccioli",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_5042_5be5e10061f59.PNG",
+                    "fone": "",
+                    "celular": "51 98956.8989",
+                    "email": "ricardo.pelliccioli@auxiliadorapredial.com.br",
+                    "codigo": 5042
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Prédio"
+            ],
+            "categoriaImovel": "Prédio",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 21,
+            "codigoCorretor": 1689,
+            "valores": {
+                "valor": 2755000,
+                "cond": 1,
+                "iptu": 100,
+                "antigo": 2755000,
+                "desconto": 0
+            },
+            "caracteristicas": {
+                "quartos": 0,
+                "banheiros": 0,
+                "suites": 0,
+                "garagens": 12,
+                "area": 1187.82,
+                "descricao": "Ótima opção para investidor/construtora. Prédio em obra com 95% de estrutura, alvenaria e reboco prontos, chegando à 1.187,82m², no Bairro Higienópolis, na Rua Couto de Magalhães. Está com a documentação regulamentada, planta com 01 apartamento por andar cada um com 157,98m² sendo último uma cobertura de 230,78m². Todos os apartamentos amplos, sacadas no living, na suíte,  com três vagas por imóvel. Agende sua visita com nossa corretora licenciada! Também atendemos pelo WhatsApp!!"
+            },
+            "endereco": {
+                "tipo": "Rua",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Higienópolis",
+                "rua": "GENERAL COUTO DE MAGALHAES",
+                "numero": "858",
+                "lat": -30.0163431,
+                "lng": -51.1927111
+            },
+            "empreendimento": " ",
+            "id": 234021,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "234021/i712zLE940B14_2340215c125d111b1ee.jpg",
+                    "234021/i712zLE940B14_2340215c125d0c17d73.jpg",
+                    "234021/i712zLE940B14_2340215c125d07d9fd0.jpg",
+                    "234021/i712zLE940B14_2340215c125d16143df.jpg",
+                    "234021/i712zLE940B14_2340215c125d1bbbbb0.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 566,
+            "nomeAgencia": "Agência Nilo Peçanha",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/nilo__baixa.jpg",
+            "codigoAgenciaPai": "21",
+            "emailAgencia": "nilopecanha@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3083.6666",
+            "nomeCorretor": "Cinara Dallarosa",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1689_62fcdd6f9a4f2.jpg",
+            "celularCorretor": "51 99678.1137",
+            "emailCorretor": "cinara.dallarosa@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Nilo Peçanha",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/nilo__baixa.jpg",
+                    "celular": "",
+                    "codigo": "21",
+                    "codigoPai": "21",
+                    "email": "nilopecanha@auxiliadorapredial.com.br",
+                    "fone": "51 3083.6666"
+                },
+                "corretor": {
+                    "nome": "Cinara Dallarosa",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_1689_62fcdd6f9a4f2.jpg",
+                    "fone": "",
+                    "celular": "51 99678.1137",
+                    "email": "cinara.dallarosa@auxiliadorapredial.com.br",
+                    "codigo": 1689
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Apartamento Garden"
+            ],
+            "categoriaImovel": "Apartamento Garden",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 7,
+            "codigoCorretor": 3211,
+            "valores": {
+                "valor": 2750000,
+                "cond": 2000,
+                "iptu": 6000,
+                "antigo": 2750000,
+                "desconto": 0
+            },
+            "caracteristicas": {
+                "quartos": 3,
+                "titulo": "MORE COM CONFORTO E BOM GOSTO EM UMA CASA SUSPENSA COM VISTA PARA O GUAÍBA!",
+                "banheiros": 5,
+                "suites": 3,
+                "garagens": 3,
+                "area": 318.1,
+                "descricao": "Auxiliadora Predial vende belíssimo apartamento Garden, 3 suítes, área privativa 318,10 m². Espaçoso living com lareira, lavabo, terraço com churrasqueira, piscina, vista para o Guaiba e pôr do sol. Suíte máster com SPA e pátio com árvores frutíferas. Estar íntimo. Cozinha, lavanderia e banheiro auxiliar. Três vagas de garagem. Condomínio com portaria 24 horas, elevador e bicicletario. Venha conhecer. Entre em contato com a corretora licenciada. Disponível também pelo whatsapp.",
+                "listaCaracteristica": [
+                    "Área Serviço",
+                    "Churrasqueira",
+                    "Cozinha Montada",
+                    "Lareira",
+                    "Lavabo",
+                    "Living",
+                    "Terraço",
+                    "Água Quente"
+                ]
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Cristal",
+                "rua": "CAI",
+                "numero": "55",
+                "lat": -30.0803084,
+                "lng": -51.2395173
+            },
+            "empreendimento": "Altos do Prado",
+            "id": 390339,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 1,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "390339/iaNVwWA1g4_39033963865e075e76c.jpg",
+                    "390339/iaNVwWA1g4_39033963865df111ec8.jpg",
+                    "390339/iaNVwWA1g4_39033963865de422949.jpg",
+                    "390339/iaNVwWA1g4_39033963865deabb6ab.jpg",
+                    "390339/iaNVwWA1g4_39033963865e01efc3c.jpg"
+                ]
+            },
+            "tags": [
+                "Alto Padrão",
+                "Baixou O Preço",
+                "Avalia Imóvel no negócio"
+            ],
+            "agendamento": false,
+            "visitaAcompanhada": false,
+            "visualizacoes": 306,
+            "nomeAgencia": "Agência Moinhos de Vento",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/moinhos_baixa_.jpg",
+            "codigoAgenciaPai": "7",
+            "emailAgencia": "moinhosdevento@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3573.1139",
+            "nomeCorretor": "Fabiana Pires",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_3211_5f9b0fa236cc3.jpg",
+            "celularCorretor": "51 98436.4400",
+            "emailCorretor": "fabiana.pires@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Moinhos de Vento",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/moinhos_baixa_.jpg",
+                    "celular": "",
+                    "codigo": "7",
+                    "codigoPai": "7",
+                    "email": "moinhosdevento@auxiliadorapredial.com.br",
+                    "fone": "51 3573.1139"
+                },
+                "corretor": {
+                    "nome": "Fabiana Pires",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/e_auxiliad_3211_5f9b0fa236cc3.jpg",
+                    "fone": "",
+                    "celular": "51 98436.4400",
+                    "email": "fabiana.pires@auxiliadorapredial.com.br",
+                    "codigo": 3211
+                }
+            }
+        },
+        {
+            "resoucom": "Residencial",
+            "negocio": "venda",
+            "disponivel": true,
+            "tipoImovel": [
+                "Lote/terreno"
+            ],
+            "categoriaImovel": "Lote/terreno",
+            "campanha": "Baixou O Preço",
+            "diferencial": "",
+            "agencia": 97,
+            "codigoCorretor": 3490,
+            "valores": {
+                "valor": 2449000,
+                "cond": 1,
+                "iptu": 1920,
+                "antigo": 2750000,
+                "desconto": 10.95
+            },
+            "caracteristicas": {
+                "quartos": 0,
+                "titulo": "Terreno Esquina Positiva",
+                "banheiros": 0,
+                "suites": 0,
+                "garagens": 0,
+                "area": 749.89,
+                "descricao": "Terreno de esquina positiva, com 749 m2 na rotula da Juca Batista com a Edgar Pires de Castro. Ideal para Farmácias ou empresas que queira destaques, como concessionarias de moto. Ao lado do Zaffari, Super Desco, Centro Clinico Gaúcho, Farmácias São João."
+            },
+            "endereco": {
+                "tipo": "Avenida",
+                "cidade": "Porto Alegre",
+                "uf": "RS",
+                "bairro": "Hípica",
+                "rua": "JUCA BATISTA",
+                "numero": "4381",
+                "lat": -30.1588819,
+                "lng": -51.1915747
+            },
+            "empreendimento": " ",
+            "id": 113032,
+            "imobiliariaOrigem": "ap",
+            "aceitaPropostaOnline": false,
+            "exibeQueroAlugar": false,
+            "totalContatos": 1,
+            "totalFavoritos": 0,
+            "fotos": {
+                "base": "vendas/imoveis/",
+                "nomes": [
+                    "113032/i46CYQ9_11303262f277007c70e.jpg",
+                    "113032/i2dzu9_113032631102d1029d8.jpg"
+                ]
+            },
+            "tags": [
+                "Baixou O Preço"
+            ],
+            "agendamento": true,
+            "visitaAcompanhada": false,
+            "visualizacoes": 62,
+            "nomeAgencia": "Agência Praia de Belas",
+            "fotoAgencia": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/praia_de_belas_baixa.jpg",
+            "codigoAgenciaPai": "97",
+            "emailAgencia": "praiadebelas@auxiliadorapredial.com.br",
+            "foneAgencia": "51 3398.8705",
+            "nomeCorretor": "Z- AP - Praia de Belas",
+            "fotoCorretor": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/corretor_semfoto.jpg",
+            "celularCorretor": "51 99253.7477",
+            "emailCorretor": "praiadebelas@auxiliadorapredial.com.br",
+            "anunciante": {
+                "agencia": {
+                    "nome": "Agência Praia de Belas",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/agencias/praia_de_belas_baixa.jpg",
+                    "celular": "",
+                    "codigo": "97",
+                    "codigoPai": "97",
+                    "email": "praiadebelas@auxiliadorapredial.com.br",
+                    "fone": "51 3398.8705"
+                },
+                "corretor": {
+                    "nome": "Z- AP - Praia de Belas",
+                    "foto": "https://www.auxiliadorapredial.com.br/images/vendas/imoveis/corretor_semfoto.jpg",
+                    "fone": "",
+                    "celular": "51 99253.7477",
+                    "email": "praiadebelas@auxiliadorapredial.com.br",
+                    "codigo": 3490
+                }
+            }
+        }
+    ],
+    "totalItems": 34161,
+    "totalPages": 1234,
+    "filters": {
+        "features": {
+            "ticV": [
+                "lote/terreno",
+                "casa comercial",
+                "predio",
+                "pavilhao",
+                "deposito/armazem/pavilhao",
+                "chacara/sitio/fazenda",
+                "sala/conjunto comercial",
+                "loja",
+                "casa",
+                "box/garagem",
+                "imovel comercial",
+                "casa em condominio",
+                "area",
+                "andar",
+                "sobreloja",
+                "galpao",
+                "estacionamento"
+            ],
+            "tirV": [
+                "lote/terreno",
+                "apartamento",
+                "cobertura",
+                "casa em condominio",
+                "chacara/sitio/fazenda",
+                "casa",
+                "sobrado",
+                "apartamento,apartamento garden,cobertura",
+                "sala/conjunto comercial",
+                "casa comercial",
+                "loja",
+                "predio",
+                "area",
+                "apartamento garden",
+                "box/garagem",
+                "pavilhao",
+                "deposito/armazem/pavilhao",
+                "imovel comercial",
+                "galpao",
+                "apartamento,apartamento garden"
+            ],
+            "ticAP": [
+                "casa",
+                "predio",
+                "casa comercial",
+                "imovel comercial",
+                "sala/conjunto comercial",
+                "apartamento"
+            ],
+            "ticA": [
+                "casa",
+                "pavilhao",
+                "loja",
+                "comercial",
+                "andar",
+                "predio",
+                "lote",
+                "sobreloja",
+                "armazem",
+                "area",
+                "estacionamento"
+            ],
+            "tirAP": [
+                "apartamento",
+                "casa em condominio",
+                "cobertura",
+                "casa",
+                "apartamento garden",
+                "sobrado",
+                "loft",
+                "lote/terreno",
+                "cobertura horizontal",
+                "cobertura,apartamento,apartamento garden",
+                "loja",
+                "predio",
+                "apartamento,apartamento garden",
+                "chacara/sitio/fazenda",
+                "deposito/armazem/pavilhao"
+            ],
+            "tirA": [
+                "apartamento",
+                "casa",
+                "cobertura",
+                "sobrado",
+                "jk",
+                "loft",
+                "comercial",
+                "predio",
+                "chacara",
+                "flat"
+            ],
+            "cA": [
+                "sacada",
+                "churrasqueira",
+                "área serviço",
+                "cozinha montada",
+                "lareira",
+                "living",
+                "lavabo",
+                "depósito",
+                "terraço"
+            ],
+            "ccA": [
+                "portaria",
+                "gás central",
+                "lavanderia",
+                "portaria no edifício"
+            ],
+            "caA": [
+                "agendamento digital",
+                "aluga rápido sem fiador ou garantias",
+                "mobiliado"
+            ],
+            "cmpA": [
+                "Apê Universitário",
+                "Baixou O Preço",
+                "Anúncio Novo",
+                "Cliques",
+                "Chave na Mão",
+                "Imóvel com acessibilidade",
+                "Mais espaço",
+                "Com Churrasqueira",
+                "Temporada Corporate",
+                "Reforma Certa",
+                "Locação Reversível",
+                "auxiplus",
+                "Sol da Manhã",
+                "baixou o preco"
+            ],
+            "cV": [
+                "living",
+                "churrasqueira",
+                "área serviço",
+                "sacada",
+                "cozinha montada",
+                "água quente",
+                "depósito",
+                "lareira",
+                "lavabo",
+                "terraço",
+                "sauna"
+            ],
+            "ccV": [
+                "gás central",
+                "porteiro eletrônico",
+                "brinquedoteca",
+                "alarme no condomínio",
+                "bicicletário",
+                "churrasqueira",
+                "lavanderia",
+                "elevador",
+                "estacionamento",
+                "chimarródromo",
+                "playground",
+                "portaria",
+                "piscina",
+                "auditório",
+                "espaço gourmet",
+                "portaria no edifício",
+                "zelador",
+                "quiosque",
+                "portaria nao",
+                "sauna"
+            ],
+            "caV": [
+                "avalia imóvel no negócio",
+                "mobiliado",
+                "agendamento digital"
+            ],
+            "cmpV": [
+                "Baixou O Preço",
+                "Apê Universitário",
+                "Anúncio Novo",
+                "#VerãonaAuxi",
+                "Reforma Certa",
+                "Aniver de Ofertas",
+                "Marketplace Loft",
+                "Chave na Mão",
+                "auxiplus",
+                "baixou o preco",
+                "ape universitario"
+            ],
+            "ccVN": [
+                "alarme no condomínio",
+                "brinquedoteca",
+                "churrasqueira",
+                "portaria ",
+                "elevador",
+                "jardim",
+                "bicicletário",
+                "piscina",
+                "portaria 24 h",
+                "portaria 12 h",
+                "playground",
+                "gás central",
+                "pilotis",
+                "portaria 7 h",
+                "estacionamento",
+                "portaria --"
+            ],
+            "caVN": [
+                "avalia imóvel no negócio",
+                "agendamento digital",
+                "mobiliado"
+            ],
+            "cVN": [
+                "cozinha",
+                "churrasqueira",
+                "piscina",
+                "cozinha montada",
+                "sacada",
+                "alarme no imovel",
+                "lavabo",
+                "terraço",
+                "pátio",
+                "água quente",
+                "lareira"
+            ],
+            "cmpVN": [
+                "Campanha Neon"
+            ],
+            "ccAP": [
+                "bicicletário",
+                "lavanderia",
+                "churrasqueira",
+                "elevador",
+                "portaria no edifício",
+                "alarme no condomínio",
+                "estacionamento",
+                "brinquedoteca",
+                "gás central",
+                "auditório",
+                "chimarródromo",
+                "portaria",
+                "espaço gourmet",
+                "playground",
+                "piscina",
+                "porteiro eletrônico",
+                "zelador",
+                "quiosque"
+            ],
+            "caAP": [
+                "mobiliado",
+                "avalia imóvel no negócio",
+                "agendamento digital"
+            ],
+            "cAP": [
+                "churrasqueira",
+                "lareira",
+                "cozinha montada",
+                "área serviço",
+                "sacada",
+                "lavabo",
+                "água quente",
+                "living",
+                "depósito",
+                "sauna",
+                "terraço"
+            ],
+            "cmpAP": [
+                "Baixou O Preço",
+                "Apê Universitário",
+                "Anúncio Novo",
+                "#VerãonaAuxi",
+                "baixou o preco"
+            ]
+        },
+        "neighbourhoods": {
+            "bairros": [
+                "Camaquã",
+                "Chácara das Pedras",
+                "São João",
+                "São Geraldo",
+                "Petrópolis",
+                "Higienópolis",
+                "Glória",
+                "Floresta",
+                "Jardim Lindóia",
+                "Vila Nova",
+                "Rio Branco",
+                "Jardim Botânico",
+                "São Sebastião",
+                "Cristal",
+                "Cidade Baixa",
+                "Passo da Areia",
+                "Morro Santana",
+                "Santana",
+                "Sarandi",
+                "Centro Histórico",
+                "Bela Vista",
+                "Pedra Redonda",
+                "Teresópolis",
+                "Restinga",
+                "Cristo Redentor",
+                "Belém Novo",
+                "Hípica",
+                "Lagos de Nova Ipanema",
+                "Auxiliadora",
+                "Mont Serrat",
+                "Jardim do Salso",
+                "Jardim Itu Sabará",
+                "Parque Santa Fé",
+                "Protásio Alves",
+                "Tristeza",
+                "Humaitá",
+                "Nonoai",
+                "Ecoville",
+                "Partenon",
+                "Espírito Santo",
+                "Jardim Leopoldina",
+                "Medianeira",
+                "Jardim Itu",
+                "Bom Fim",
+                "Praia de Belas",
+                "Jardim Europa",
+                "Independência",
+                "Cavalhada",
+                "Menino Deus",
+                "Farroupilha",
+                "Boa Vista",
+                "Guarujá",
+                "Santa Cecilia",
+                "Santo Antônio",
+                "Vila Ipiranga",
+                "Moinhos de Vento",
+                "Jardim Isabel",
+                "Ipanema",
+                "Agronomia",
+                "Jardim Sabará",
+                "Coronel Aparício Borges",
+                "Vila João Pessoa",
+                "Navegantes",
+                "Santa Tereza",
+                "Rubem Berta",
+                "Central Parque",
+                "Azenha",
+                "Vila Assunção",
+                "Jardim Carvalho",
+                "Ponta Grossa",
+                "Alto Petrópolis",
+                "Vila São José",
+                "Três Figueiras",
+                "Santa Maria Goretti",
+                "Passo das Pedras",
+                "Intercap",
+                "Lomba do Pinheiro",
+                "Campo Novo",
+                "Aberta dos Morros",
+                "Jardim Planalto",
+                "Santa Rosa de Lima",
+                "Mario Quintana",
+                "Jardim Floresta",
+                "Lageado",
+                "Vila Jardim",
+                "Costa e Silva",
+                "Anchieta",
+                "Bom Jesus",
+                "Chapéu do Sol",
+                "Cascata",
+                "Farrapos",
+                "Jardim Sao Pedro",
+                "São José",
+                "Alto Teresópolis",
+                "Parque dos Maias",
+                "restinga",
+                "Alphaville",
+                "Moradas do Sul",
+                "Extrema",
+                "Belém Velho",
+                "Serraria",
+                "Moradas da Hípica",
+                "Vila Conceicao",
+                "Lami",
+                "Nova Ipanema",
+                "Jardim Vila Nova",
+                "Arquipélago",
+                "São Caetano",
+                "Jardins do Prado",
+                "Altos Do Ipê",
+                "Terra Ville",
+                "Sétimo Céu",
+                "Boa Vista do Sul",
+                "Imperial Park",
+                "Sans Souci",
+                "Tapete Verde",
+                "Marcílio Dias",
+                "Jardim Verde",
+                "Jardim Itu-Sabará",
+                "Passo D'areia",
+                "Centro",
+                "Cel. Aparicio Borges",
+                "Mont'serrat"
+            ],
+            "zonas": [
+                {
+                    "zona": "ZONA BELA VISTA / PETRÓPOLIS",
+                    "bairros": [
+                        "Auxiliadora",
+                        "Bela Vista",
+                        "Jardim Botânico",
+                        "Mont Serrat",
+                        "Petrópolis",
+                        "Santa Cecília"
+                    ]
+                },
+                {
+                    "zona": "ZONA MOINHOS DE VENTO",
+                    "bairros": [
+                        "Floresta",
+                        "Higienópolis",
+                        "Independência",
+                        "Moinhos de Vento",
+                        "Rio Branco"
+                    ]
+                },
+                {
+                    "zona": "ZONA IGUATEMI",
+                    "bairros": [
+                        "Boa Vista",
+                        "Chácara das Pedras",
+                        "Cristo Redentor",
+                        "Jardim Europa",
+                        "Jardim Itu Sabará",
+                        "Passo da Areia",
+                        "Três Figueiras",
+                        "Vila Ipiranga"
+                    ]
+                },
+                {
+                    "zona": "ZONA CENTRAL",
+                    "bairros": [
+                        "Azenha",
+                        "Bom Fim",
+                        "Centro Histórico",
+                        "Cidade Baixa",
+                        "Farroupilha",
+                        "Marcílio Dias",
+                        "Menino Deus",
+                        "Praia de Belas",
+                        "Santana"
+                    ]
+                },
+                {
+                    "zona": "ZONA NORTE",
+                    "bairros": [
+                        "Anchieta",
+                        "Arquipélago",
+                        "Ecoville",
+                        "Farrapos",
+                        "Humaitá",
+                        "Jardim Dona Leopoldina",
+                        "Jardim Floresta",
+                        "Jardim Itu",
+                        "Jardim Leopoldina",
+                        "Jardim Lindóia",
+                        "Jardim Planalto",
+                        "Jardim São Pedro",
+                        "Mário Quintana",
+                        "Navegantes",
+                        "Parque dos Maias",
+                        "Parque Santa Fé",
+                        "Parque São Sebastião",
+                        "Passo das Pedras",
+                        "Protásio Alves",
+                        "Rubem Berta",
+                        "Santa Maria Goretti",
+                        "São Geraldo",
+                        "São João",
+                        "São José",
+                        "São Sebastião",
+                        "Sarandi",
+                        "Vila Jardim"
+                    ]
+                },
+                {
+                    "zona": "ZONA SUL",
+                    "bairros": [
+                        "Aberta dos Morros",
+                        "Alphaville",
+                        "Altos Do Ipê",
+                        "Belém Novo",
+                        "Belém Velho",
+                        "Camaquã",
+                        "Cascata",
+                        "Cavalhada",
+                        "Chapéu do Sol",
+                        "Cristal",
+                        "Espírito Santo",
+                        "Guarujá",
+                        "Hípica",
+                        "Imperial Park",
+                        "Ipanema",
+                        "Jardim Isabel",
+                        "Jardim Verde",
+                        "Jardim Vila Nova",
+                        "Jardins do Prado",
+                        "Lageado",
+                        "Lagos de Nova Ipanema",
+                        "Lami",
+                        "Lomba do Pinheiro",
+                        "Moradas da Hípica",
+                        "Moradas do Sul",
+                        "Nonoai",
+                        "Nova Ipanema",
+                        "Pedra Redonda",
+                        "Ponta Grossa",
+                        "Restinga",
+                        "Santa Tereza",
+                        "Serraria",
+                        "Sétimo Céu",
+                        "Tapete Verde",
+                        "Teresópolis",
+                        "Terra Ville",
+                        "Tristeza",
+                        "Vila Assunção",
+                        "Vila Conceição",
+                        "Vila Nova"
+                    ]
+                },
+                {
+                    "zona": "ZONA LESTE",
+                    "bairros": [
+                        "Agronomia",
+                        "Alto Petrópolis",
+                        "Alto Teresópolis",
+                        "Bom Jesus",
+                        "Cel Aparicio Borges",
+                        "Central Parque",
+                        "Coronel Aparício Borges",
+                        "Glória",
+                        "Jardim Carvalho",
+                        "Jardim do Salso",
+                        "Medianeira",
+                        "Partenon",
+                        "Santo Antônio",
+                        "Vila João Pessoa"
+                    ]
+                }
+            ]
+        }
+    },
+    "search": {
+        "ci": "Porto Alegre",
+        "uf": "RS",
+        "slug": "rs+porto-alegre",
+        "completo": "Porto Alegre - RS",
+        "ce": {
+            "lat": "-30.0346471",
+            "lng": "-51.2176584"
+        },
+        "ne": 33,
+        "st": {
+            "aluguel": [
+                220,
+                790000000
+            ],
+            "areaTotal": [
+                0.01,
+                5400000
+            ]
+        },
+        "sg": {
+            "v": {
+                "aluguel": [
+                    220,
+                    790000000
+                ],
+                "areaTotal": [
+                    0.01,
+                    5400000
+                ]
+            },
+            "vr": {
+                "aluguel": [
+                    220,
+                    790000000
+                ],
+                "areaTotal": [
+                    0.01,
+                    5400000
+                ]
+            },
+            "vc": {
+                "aluguel": [
+                    18000,
+                    790000000
+                ],
+                "areaTotal": [
+                    0.01,
+                    98400
+                ]
+            },
+            "a": {
+                "aluguel": [
+                    180,
+                    280000
+                ],
+                "areaTotal": [
+                    0.01,
+                    10000
+                ],
+                "valorTotal": [
+                    217.65,
+                    295047.96
+                ]
+            },
+            "ar": {
+                "aluguel": [
+                    400,
+                    30000
+                ],
+                "areaTotal": [
+                    0.01,
+                    1000
+                ],
+                "valorTotal": [
+                    400.16999999999996,
+                    32337
+                ]
+            },
+            "ac": {
+                "aluguel": [
+                    180,
+                    280000
+                ],
+                "areaTotal": [
+                    0.01,
+                    10000
+                ],
+                "valorTotal": [
+                    217.65,
+                    295047.96
+                ]
+            }
+        }
+    },
+    "seo": {
+        "id": 2,
+        "Negocio": "Venda",
+        "Resoucom": "Residencial",
+        "Titulo": "Comprar Apartamentos e Casas em Porto Alegre (RS)",
+        "Texto": "<p>Porto Alegre é uma das melhores cidades do Brasil para morar, trabalhar, fazer negócios, estudar e se divertir. Em 2010, foi destacada pela ONU como a metrópole nº 1 em qualidade de vida. Ostenta mais de 80 prêmios e títulos que a distinguem como uma das melhores capitais brasileiras. É sede da maior concentração urbana da região Sul, sendo a quinta cidade mais populosa do Brasil, com 1.488.252 habitantes e uma área de quase 500 km².</p><p>A Auxiliadora Predial é a maior imobiliária de Porto Alegre e conta com o maior catálogo de imóveis para compra.</p>",
+        "Subtitulo1": "Encontre seu imóvel ideal nas buscas abaixo:",
+        "Subtitulo2": "Veja também",
+        "Subtitulo3": "Principais buscas por bairros em Porto Alegre",
+        "created_at": "2021-06-30T12:08:37.000Z",
+        "updated_at": "2021-06-30T12:17:26.000Z",
+        "Localizacao": {
+            "id": 3,
+            "uf": {
+                "id": 1,
+                "nome": "Rio grande do sul",
+                "slug": "rs",
+                "created_at": "2021-06-30T00:18:48.000Z",
+                "updated_at": "2021-06-30T00:18:48.000Z"
+            },
+            "cidade": {
+                "id": 1,
+                "nome": "Porto Alegre",
+                "slug": "porto-alegre",
+                "uf": null,
+                "created_at": "2021-06-30T00:18:30.000Z",
+                "updated_at": "2021-06-30T00:18:30.000Z"
+            },
+            "bairro": null
+        },
+        "Links1": [
+            {
+                "id": 15,
+                "texto": "Imóveis com 1 quarto, à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?quartos=1"
+            },
+            {
+                "id": 16,
+                "texto": "Imóveis com 2 quartos, à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?quartos=2"
+            },
+            {
+                "id": 17,
+                "texto": "Imóveis com 3 quartos, à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?quartos=3"
+            },
+            {
+                "id": 18,
+                "texto": "Imóveis com 4 quartos, à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?quartos=4"
+            }
+        ],
+        "Links2": [
+            {
+                "id": 19,
+                "texto": "Apartamento à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?tipoImovel=apartamento"
+            },
+            {
+                "id": 20,
+                "texto": "Casa à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?tipoImovel=casa"
+            },
+            {
+                "id": 21,
+                "texto": "Imóveis comerciais à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/comercial/rs+porto-alegre"
+            },
+            {
+                "id": 22,
+                "texto": "Casa em Condomínio à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?tipoImovel=casa-em-condominio"
+            },
+            {
+                "id": 23,
+                "texto": "Cobertura à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?tipoImovel=cobertura"
+            },
+            {
+                "id": 24,
+                "texto": "Flat à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?tipoImovel=flat"
+            },
+            {
+                "id": 25,
+                "texto": "Kitnet à venda em Porto Alegre ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?tipoImovel=kitnet-jk"
+            }
+        ],
+        "Links3": [
+            {
+                "id": 26,
+                "texto": "Imóveis à venda no bairro Auxiliadora ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?bairro=auxiliadora"
+            },
+            {
+                "id": 27,
+                "texto": "Imóveis à venda no bairro Bela Vista ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?bairro=bela-vista"
+            },
+            {
+                "id": 28,
+                "texto": "Imóveis à venda no bairro Centro Histórico",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?bairro=centro-historico"
+            },
+            {
+                "id": 29,
+                "texto": "Imóveis à venda no bairro Jardim Botânico ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?bairro=jardim-botanico"
+            },
+            {
+                "id": 30,
+                "texto": "Imóveis à venda no bairro Moinhos de Vento ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?bairro=moinhos-de-vento"
+            },
+            {
+                "id": 31,
+                "texto": "Imóveis à venda no bairro Vila Assunção ",
+                "url": "https://www.auxiliadorapredial.com.br/comprar/residencial/rs+porto-alegre?bairro=vila-assuncao"
+            }
+        ]
+    }
+}
