@@ -24,7 +24,7 @@ const sendGuaridaRequest = async () => {
     let guaridaRequestBody = {negocio:2,order:"relevancia",finalidade:"residencial",cidade:1,estado:1,page:1
     , bairros: [14]
     //, numeroquartos: 2
-    , valor: {max: 400000}
+    //, valor: {max: 400000}
     };
     let totalPages = 1;
     let currentPage = 0;

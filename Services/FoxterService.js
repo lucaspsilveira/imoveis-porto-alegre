@@ -6,7 +6,7 @@ let foxterUrl = "https://www.foxterciaimobiliaria.com.br/api/v4/imoveis";
 
 function createRealState(element) {
     var realState = new RealState();
-    realState.Price = Number(element.price.replace(".", ""));
+    realState.Price = element.price.replaceAll(".", "");
     realState.Area = element.areaPrivate;
     realState.AddressStreet = element.place.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
     realState.AddressStreetNumber = "Not published";
@@ -24,7 +24,8 @@ const sendFoxterRequest = async () => {
     console.log("Foxter Request started!")
     let urlSegments = "/a-venda"
     urlSegments += "/apartamento-ou-apartamento-garden-ou-casa-residencial-ou-casa-em-condominio-ou-cobertura-ou-fazenda-sitio-chacara-ou-flat-ou-kitnet-jk-studio-ou-loft-ou-terreno-residencial-ou-terreno-em-condominio-residencial"
-    urlSegments += "/em-porto-alegre-rs/no-bairro-petropolis/entre-0-e-400000"
+    urlSegments += "/em-porto-alegre-rs/no-bairro-petropolis"
+    //urlSegments += "/entre-0-e-400000"
     //urlSegments += "/2+quartos"
     
     let currentPage = 0;

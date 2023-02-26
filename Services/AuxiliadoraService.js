@@ -9,7 +9,7 @@ function createRealState(element) {
     realState.Area = element.caracteristicas.area;
     let tipo = element.endereco.tipo.toLowerCase() == "av" ? "avenida" : element.endereco.tipo.toLowerCase();
     realState.AddressStreet = tipo + " " +  element.endereco.rua.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, "");
-    realState.AddressStreetNumber = element.endereco.numero;
+    realState.AddressStreetNumber = element.endereco.numero.replaceAll(",", "/");
     realState.District = element.endereco.bairro.toLowerCase();
     realState.Link = "https://www.auxiliadorapredial.com.br/imovel/venda/" + element.id;
     realState.BedroomQuantity = element.caracteristicas.quartos;
@@ -22,7 +22,7 @@ function createRealState(element) {
 const sendAuxiliadoraRequest = async () => {
     console.log("Auxiliadora Request started!")
     let auxiliadoraRequestBody = {"place":"rs+porto-alegre","tipoGeralImovel":"residencial","bairro":"petropolis","page":1,"order":"Relevância"
-    ,"valorMax": 400000
+    //,"valorMax": 400000
     //, "quartos":2
     }
     let totalPages = 1;
